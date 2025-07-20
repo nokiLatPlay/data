@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "id_tmdb": "109689",
+      "imagen": "https://image.tmdb.org/t/p/w342/s16By5DjE1QJDPDfmTnbGozak0H.jpg",
+      "titulo": "Tengo ganas de ti",
+      "año": "2012",
+      "etiquetas": "Drama, Romance",
+      "categorías": "Drama, Romance",
+      "type": "movie",
+      "created_at": "2012-06-22",
+      "updated_at": "2025-07-19T02:37:08.518Z",
+      "calidad": "HD"
+    },
+    {
+      "id_tmdb": "49519",
+      "imagen": "https://image.tmdb.org/t/p/w342/3X3qtBTgKt5mCB30RJwbIjgjzdw.jpg",
+      "titulo": "Los Croods",
+      "año": "2013",
+      "etiquetas": "Animación, Aventura, Familia, Fantasía, Comedia, Acción",
+      "categorías": "Animación, Aventura, Familia, Fantasía, Comedia, Acción",
+      "type": "movie",
+      "created_at": "2013-03-15",
+      "updated_at": "2025-07-17T09:05:13.722Z",
+      "calidad": "HD"
+    },
+    {
+      "id_tmdb": "1356039",
+      "imagen": "https://image.tmdb.org/t/p/w342/kxnFdLJhi37ZVFDCL1ka0yeQVU5.jpg",
+      "titulo": "Contraataque",
+      "año": "2025",
+      "etiquetas": "",
+      "categorías": "",
+      "type": "movie",
+      "created_at": "2025-02-27",
+      "updated_at": "2025-07-19T01:00:20.602Z",
+      "calidad": "HD"
+    }
+  ],
+  "lastUpdated": "2025-07-19T02:37:34.744Z"
+}
