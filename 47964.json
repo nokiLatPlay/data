@@ -7,33 +7,8 @@
   "categorías": "Acción, Suspense",
   "type": "movie",
   "created_at": "2013-02-06",
-  "updated_at": "2025-07-22T07:34:14.262Z",
+  "updated_at": "2025-07-22T07:22:56.071Z",
   "calidad": "HD",
   "synopsis": "John McClane, un policía de la ciudad de Nueva York, y su hijo deben dejar de lado sus diferencias para trabajar juntos y evitar que el hampa de Moscú controle unas armas nucleares",
-  "enlaces": [
-    {
-      "nombre": "Server 1",
-      "url": "https://movearnpre.com/embed/xzhdwy39saa5",
-      "type": "embed",
-      "language": "Latino"
-    },
-    {
-      "nombre": "Server 2",
-      "url": "https://vidhideplus.com/v/d2cva3vooueq",
-      "type": "embed",
-      "language": "Latino"
-    },
-    {
-      "nombre": "Server 3",
-      "url": "https://lamovie.link/embed-pqaf15lz8ss9.html",
-      "type": "embed",
-      "language": "Latino"
-    },
-    {
-      "nombre": "Server 4",
-      "url": "https://listeamed.net/e/l4vexvDkqg3O8B9",
-      "type": "embed",
-      "language": "Latino"
-    }
-  ]
+  "enlaces": []
 }
