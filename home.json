@@ -33,7 +33,7 @@
       "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Drama, Crimen",
       "type": "animes",
       "created_at": "2021-01-13",
-      "updated_at": "2025-07-22T07:44:40.146Z"
+      "updated_at": "2025-07-24T09:29:16.057Z"
     },
     {
       "id_tmdb": "109689",
@@ -932,7 +932,7 @@
       "categorías": "Animación, Romance, Drama",
       "type": "movie",
       "created_at": "2016-08-26",
-      "updated_at": "2025-07-22T09:43:48.995Z",
+      "updated_at": "2025-07-23T03:50:28.977Z",
       "calidad": "HD"
     },
     {
@@ -2098,7 +2098,84 @@
       "created_at": "2014-05-28",
       "updated_at": "2025-07-23T03:41:14.302Z",
       "calidad": "HD"
+    },
+    {
+      "id_tmdb": "56998",
+      "imagen": "https://image.tmdb.org/t/p/w342/yNdgCPAFyQIZwhAcXPYrzp14Rek.jpg",
+      "titulo": "Highschool of the Dead",
+      "año": "2010",
+      "etiquetas": "Animación, Acción, Aventura, Drama, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Drama, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2010-07-05",
+      "updated_at": "2025-07-24T09:23:07.508Z"
+    },
+    {
+      "id_tmdb": "110070",
+      "imagen": "https://image.tmdb.org/t/p/w342/2ZOfEetRHnqCBzvubdYU3ytwcq.jpg",
+      "titulo": "Horimiya",
+      "año": "2021",
+      "etiquetas": "Animación, Comedia, Drama",
+      "categorías": "Animación, Comedia, Drama",
+      "type": "animes",
+      "created_at": "2021-01-10",
+      "updated_at": "2025-07-24T09:23:51.024Z"
+    },
+    {
+      "id_tmdb": "42413",
+      "imagen": "https://image.tmdb.org/t/p/w342/39rU3RynR64KnM9sGCiz74fsdGn.jpg",
+      "titulo": "Demon King Daimao",
+      "año": "2010",
+      "etiquetas": "Acción, Aventura, Animación, Comedia, Ciencia Ficción y Fantasía",
+      "categorías": "Acción, Aventura, Animación, Comedia, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2010-04-03",
+      "updated_at": "2025-07-24T09:24:55.093Z"
+    },
+    {
+      "id_tmdb": "73946",
+      "imagen": "https://image.tmdb.org/t/p/w342/5zqngLZU6PBblfzOqu4TmejcFp2.jpg",
+      "titulo": "Inuyashiki: Last Hero",
+      "año": "2017",
+      "etiquetas": "Animación, Drama, Ciencia Ficción y Fantasía, Acción, Aventura",
+      "categorías": "Animación, Drama, Ciencia Ficción y Fantasía, Acción, Aventura",
+      "type": "animes",
+      "created_at": "2017-10-12",
+      "updated_at": "2025-07-24T09:27:13.863Z"
+    },
+    {
+      "id_tmdb": "80563",
+      "imagen": "https://image.tmdb.org/t/p/w342/hEVrUMad8piGqeLnDINvRc8jWqY.jpg",
+      "titulo": "How Not to Summon a Demon Lord",
+      "año": "2018",
+      "etiquetas": "Acción, Aventura, Comedia, Ciencia Ficción y Fantasía, Animación",
+      "categorías": "Acción, Aventura, Comedia, Ciencia Ficción y Fantasía, Animación",
+      "type": "animes",
+      "created_at": "2018-07-05",
+      "updated_at": "2025-07-24T09:27:17.325Z"
+    },
+    {
+      "id_tmdb": "96444",
+      "imagen": "https://image.tmdb.org/t/p/w342/9enqv9UjBLF0Yz1XVgxaofh73FF.jpg",
+      "titulo": "Ishuzoku Reviewers",
+      "año": "2020",
+      "etiquetas": "Animación, Comedia, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Comedia, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2020-01-11",
+      "updated_at": "2025-07-24T09:31:07.082Z"
+    },
+    {
+      "id_tmdb": "88044",
+      "imagen": "https://image.tmdb.org/t/p/w342/fJyzb38WxPvBelzk57RyokFc6OH.jpg",
+      "titulo": "Demon Lord Retry!",
+      "año": "2019",
+      "etiquetas": "Animación, Acción, Aventura, Comedia, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Comedia, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2019-07-04",
+      "updated_at": "2025-07-24T09:36:32.107Z"
     }
   ],
-  "lastUpdated": "2025-07-23T03:42:18.864Z"
+  "lastUpdated": "2025-07-24T09:36:32.108Z"
 }
