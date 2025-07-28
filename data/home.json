@@ -10,8 +10,8 @@
       "type": "movie",
       "synopsis": "El científico Bruce Banner (Edward Norton) recorre el mundo en busca de un antídoto que le permita librarse de su Alter...",
       "created_at": "2008-06-12",
-      "updated_at": "2025-07-28T12:13:52.631Z",
-      "calidad": "CAM"
+      "updated_at": "2025-07-28T15:39:56.853Z",
+      "calidad": "HD"
     },
     {
       "id_tmdb": "60747",
@@ -23,7 +23,8 @@
       "type": "movie",
       "synopsis": "Cuando las tropas norcoreanas invaden suelo estadounidense para apoderarse de la ciudad de Spokane, un veterano de la gu...",
       "created_at": "2012-03-15",
-      "updated_at": "2025-07-14T05:36:44.780Z"
+      "updated_at": "2025-07-28T15:40:31.409Z",
+      "calidad": "HD"
     },
     {
       "id_tmdb": "572802",
@@ -35,7 +36,8 @@
       "type": "movie",
       "synopsis": "Black Manta, todavía impulsado por la necesidad de vengar la muerte de su padre y ejerciendo el poder del mítico Trident...",
       "created_at": "2023-12-20",
-      "updated_at": "2025-07-14T05:39:01.868Z"
+      "updated_at": "2025-07-28T15:40:41.126Z",
+      "calidad": "HD"
     },
     {
       "id_tmdb": "158293",
@@ -168,5 +170,5 @@
       "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-07-28T15:37:00.065Z"
+  "lastUpdated": "2025-07-28T15:40:42.128Z"
 }
