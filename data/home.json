@@ -130,7 +130,19 @@
       "created_at": "2022-11-11",
       "updated_at": "2025-07-28T10:11:56.791Z",
       "calidad": "HD"
+    },
+    {
+      "id_tmdb": "335983",
+      "imagen": "https://image.tmdb.org/t/p/w342/jMBTJQiHAyGlZR05J2sq5coA6ew.jpg",
+      "titulo": "Venom",
+      "año": "2018",
+      "etiquetas": "Ciencia ficción, Acción",
+      "categorías": "Ciencia ficción, Acción",
+      "type": "movie",
+      "created_at": "2018-09-28",
+      "updated_at": "2025-07-28T12:18:41.272Z",
+      "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-07-28T12:15:52.053Z"
+  "lastUpdated": "2025-07-28T12:18:41.272Z"
 }
