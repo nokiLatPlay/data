@@ -142,7 +142,19 @@
       "created_at": "2018-09-28",
       "updated_at": "2025-07-28T12:19:03.205Z",
       "calidad": "HD"
+    },
+    {
+      "id_tmdb": "23483",
+      "imagen": "https://image.tmdb.org/t/p/w342/dyYP52hnVzioCxLSheogZBX0vXv.jpg",
+      "titulo": "Kick-Ass: Un superhéroe sin superpoderes",
+      "año": "2010",
+      "etiquetas": "Acción, Crimen",
+      "categorías": "Acción, Crimen",
+      "type": "movie",
+      "created_at": "2010-03-26",
+      "updated_at": "2025-07-28T12:29:25.757Z",
+      "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-07-28T12:27:01.429Z"
+  "lastUpdated": "2025-07-28T12:29:25.757Z"
 }
