@@ -1,1 +1,19 @@
-
+{
+  "viewData":[
+    
+    {
+      "username":,
+      "ip":,
+      "timestamp":,
+      "diaview": "lunes",
+    },
+    {
+      "username":,
+      "ip":,
+      "timestamp":,
+      "diaview": "martes",
+    }
+    
+   
+    ]
+}
