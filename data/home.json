@@ -168,7 +168,18 @@
       "created_at": "2013-01-12",
       "updated_at": "2025-07-28T12:45:52.770Z",
       "calidad": "HD"
+    },
+    {
+      "id_tmdb": "84958",
+      "imagen": "https://image.tmdb.org/t/p/w342/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg",
+      "titulo": "Loki",
+      "año": "2021",
+      "etiquetas": "Drama, Ciencia Ficción y Fantasía",
+      "categorías": "Drama, Ciencia Ficción y Fantasía",
+      "type": "series",
+      "created_at": "2021-06-09",
+      "updated_at": "2025-08-11T05:59:59.185Z"
     }
   ],
-  "lastUpdated": "2025-08-11T05:56:09.800Z"
+  "lastUpdated": "2025-08-11T06:00:04.702Z"
 }
