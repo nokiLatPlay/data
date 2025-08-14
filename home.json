@@ -932,7 +932,7 @@
       "categorías": "Animación, Romance, Drama",
       "type": "movie",
       "created_at": "2016-08-26",
-      "updated_at": "2025-07-23T03:50:28.977Z",
+      "updated_at": "2025-08-12T08:04:42.221Z",
       "calidad": "HD"
     },
     {
@@ -2263,9 +2263,20 @@
       "categorías": "Romance, Familia, Animación, Fantasía",
       "type": "movie",
       "created_at": "1991-10-22",
-      "updated_at": "2025-08-12T06:50:53.119Z",
+      "updated_at": "2025-08-12T07:17:31.138Z",
       "calidad": "HD"
+    },
+    {
+      "id_tmdb": "222930",
+      "imagen": "https://image.tmdb.org/t/p/w342/45KqPcfk6qrxl5XF7z9Wwtvo0vw.jpg",
+      "titulo": "Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord",
+      "año": "2024",
+      "etiquetas": "Animación, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2024-01-09",
+      "updated_at": "2025-08-14T06:04:43.151Z"
     }
   ],
-  "lastUpdated": "2025-08-12T06:53:12.676Z"
+  "lastUpdated": "2025-08-14T06:04:56.348Z"
 }
