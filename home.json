@@ -5,11 +5,11 @@
       "imagen": "https://image.tmdb.org/t/p/w342/kxnFdLJhi37ZVFDCL1ka0yeQVU5.jpg",
       "titulo": "Contraataque",
       "año": "2025",
-      "etiquetas": "",
-      "categorías": "",
+      "etiquetas": "Acción ,  Aventura ,  Suspense",
+      "categorías": "Acción ,  Aventura ,  Suspense",
       "type": "movie",
       "created_at": "2025-02-27",
-      "updated_at": "2025-07-22T09:35:53.882Z",
+      "updated_at": "2025-08-14T08:13:28.229Z",
       "calidad": "HD"
     },
     {
@@ -21,7 +21,7 @@
       "categorías": "Acción, Suspense",
       "type": "movie",
       "created_at": "2013-02-06",
-      "updated_at": "2025-07-22T07:22:56.069Z",
+      "updated_at": "2025-08-14T08:26:47.557Z",
       "calidad": "HD"
     },
     {
@@ -44,7 +44,7 @@
       "categorías": "Drama, Romance",
       "type": "movie",
       "created_at": "2012-06-22",
-      "updated_at": "2025-07-27T18:30:04.263Z",
+      "updated_at": "2025-08-14T08:29:17.838Z",
       "calidad": "HD"
     },
     {
@@ -56,7 +56,7 @@
       "categorías": "Animación, Aventura, Familia, Fantasía, Comedia, Acción",
       "type": "movie",
       "created_at": "2013-03-15",
-      "updated_at": "2025-07-22T09:11:46.630Z",
+      "updated_at": "2025-08-14T08:30:26.219Z",
       "calidad": "HD"
     },
     {
@@ -68,7 +68,7 @@
       "categorías": "Terror, Suspense",
       "type": "movie",
       "created_at": "2024-04-16",
-      "updated_at": "2025-07-22T09:11:46.711Z",
+      "updated_at": "2025-08-14T08:31:59.985Z",
       "calidad": "HD"
     },
     {
@@ -2268,15 +2268,15 @@
     },
     {
       "id_tmdb": "222930",
-      "imagen": "https://image.tmdb.org/t/p/w342/45KqPcfk6qrxl5XF7z9Wwtvo0vw.jpg",
+      "imagen": "https://image.tmdb.org/t/p/w342/vsTjL8hO4iSUcEx7eNxAgMxDspa.jpg",
       "titulo": "Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord",
       "año": "2024",
       "etiquetas": "Animación, Ciencia Ficción y Fantasía",
       "categorías": "Animación, Ciencia Ficción y Fantasía",
       "type": "animes",
       "created_at": "2024-01-09",
-      "updated_at": "2025-08-14T06:04:43.151Z"
+      "updated_at": "2025-08-14T07:54:58.229Z"
     }
   ],
-  "lastUpdated": "2025-08-14T06:04:56.348Z"
+  "lastUpdated": "2025-08-14T08:32:21.961Z"
 }
