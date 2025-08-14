@@ -2276,7 +2276,19 @@
       "type": "animes",
       "created_at": "2024-01-09",
       "updated_at": "2025-08-14T07:54:58.229Z"
+    },
+    {
+      "id_tmdb": "1326106",
+      "imagen": "https://image.tmdb.org/t/p/w342/okYOor2hdF7EFjxs2TxSzwGeKEQ.jpg",
+      "titulo": "Kaiju No. 8: Misión de reconocimiento",
+      "año": "2025",
+      "etiquetas": "Animación, Acción, Ciencia ficción",
+      "categorías": "Animación, Acción, Ciencia ficción",
+      "type": "movie",
+      "created_at": "2025-03-28",
+      "updated_at": "2025-08-14T08:51:11.946Z",
+      "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-08-14T08:32:21.961Z"
+  "lastUpdated": "2025-08-14T08:52:38.199Z"
 }
