@@ -7,7 +7,7 @@
   "categorías": "Animación, Comedia, Drama",
   "type": "animes",
   "created_at": "2021-01-10",
-  "updated_at": "2025-07-24T09:23:51.024Z",
+  "updated_at": "2025-08-15T01:48:16.585Z",
   "synopsis": "A primera vista, la ultra popular Hori-san parece una chica frívola de secundaria, pero en realidad es sencilla, pragmática y orientada a la familia. Por otro lado, el Miyamura-kun con gafas parece un fanático promedio y sombrío de la escuela secundaria, pero en realidad es un joven atractivo que tiene una racha de chico malo y está cubierto de piercings y tatuajes. Cuando estos dos compañeros de clase inesperadamente similares tienen un encuentro al azar fuera del aula, ¡comienza una dulce y burbujeante historia de la vida escolar!",
   "temporadas": [
     {
@@ -23,9 +23,15 @@
               "url": "https://terabox.com/s/1dbePMEjWBgDE4R3GqkA5yA",
               "type": "embed",
               "language": "Sub"
+            },
+            {
+              "nombre": "Server 2",
+              "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/Horimiya/S01/Horimiya%20-%201x01%20-%20Una%20Peque%C3%B1a%20Casualidad.mp4",
+              "type": "mp4",
+              "language": "Latino"
             }
           ],
-          "updated_at": "2025-07-24T09:23:51.024Z",
+          "updated_at": "2025-08-15T01:48:16.585Z",
           "id": "2429820"
         },
         {
@@ -38,9 +44,15 @@
               "url": "https://terabox.com/s/1j4qyD01Vs1lQkkvnwiuN3Q",
               "type": "embed",
               "language": "Sub"
+            },
+            {
+              "nombre": "Server 2",
+              "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/Horimiya/S01/Horimiya%20-%201x02%20-%20Tienes%20m%C3%A1s%20de%20una%20cara.mp4",
+              "type": "mp4",
+              "language": "Latino"
             }
           ],
-          "updated_at": "2025-07-24T09:23:51.024Z",
+          "updated_at": "2025-08-15T01:48:16.585Z",
           "id": "2614466"
         },
         {
@@ -55,7 +67,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-07-24T09:23:51.024Z",
+          "updated_at": "2025-08-15T01:48:16.585Z",
           "id": "2614467"
         },
         {
@@ -70,7 +82,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-07-24T09:23:51.024Z",
+          "updated_at": "2025-08-15T01:48:16.585Z",
           "id": "2614468"
         },
         {
@@ -85,7 +97,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-07-24T09:23:51.024Z",
+          "updated_at": "2025-08-15T01:48:16.585Z",
           "id": "2614469"
         },
         {
@@ -100,7 +112,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-07-24T09:23:51.024Z",
+          "updated_at": "2025-08-15T01:48:16.585Z",
           "id": "2614470"
         },
         {
@@ -115,7 +127,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-07-24T09:23:51.024Z",
+          "updated_at": "2025-08-15T01:48:16.585Z",
           "id": "2614471"
         },
         {
@@ -130,7 +142,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-07-24T09:23:51.024Z",
+          "updated_at": "2025-08-15T01:48:16.585Z",
           "id": "2614472"
         },
         {
@@ -145,7 +157,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-07-24T09:23:51.024Z",
+          "updated_at": "2025-08-15T01:48:16.585Z",
           "id": "2614473"
         },
         {
@@ -160,7 +172,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-07-24T09:23:51.024Z",
+          "updated_at": "2025-08-15T01:48:16.585Z",
           "id": "2614474"
         },
         {
@@ -175,7 +187,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-07-24T09:23:51.024Z",
+          "updated_at": "2025-08-15T01:48:16.585Z",
           "id": "2614475"
         },
         {
@@ -190,7 +202,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-07-24T09:23:51.024Z",
+          "updated_at": "2025-08-15T01:48:16.585Z",
           "id": "2614476"
         },
         {
@@ -205,7 +217,7 @@
               "language": "Sub"
             }
           ],
-          "updated_at": "2025-07-24T09:23:51.024Z",
+          "updated_at": "2025-08-15T01:48:16.585Z",
           "id": "2626146"
         }
       ]
