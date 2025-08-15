@@ -2119,7 +2119,7 @@
       "categorías": "Animación, Comedia, Drama",
       "type": "animes",
       "created_at": "2021-01-10",
-      "updated_at": "2025-07-24T09:23:51.024Z"
+      "updated_at": "2025-08-15T01:48:16.585Z"
     },
     {
       "id_tmdb": "42413",
@@ -2288,7 +2288,19 @@
       "created_at": "2025-03-28",
       "updated_at": "2025-08-14T08:51:11.946Z",
       "calidad": "HD"
+    },
+    {
+      "id_tmdb": "324786",
+      "imagen": "https://image.tmdb.org/t/p/w342/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg",
+      "titulo": "Hasta el Último Hombre",
+      "año": "2016",
+      "etiquetas": "Drama, Historia, Bélica",
+      "categorías": "Drama, Historia, Bélica",
+      "type": "movie",
+      "created_at": "2016-10-07",
+      "updated_at": "2025-08-15T02:20:11.646Z",
+      "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-08-15T01:40:21.789Z"
+  "lastUpdated": "2025-08-15T02:20:32.871Z"
 }
