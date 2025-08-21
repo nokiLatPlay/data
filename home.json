@@ -1,6 +1,17 @@
 {
   "data": [
     {
+      "id_tmdb": "232230",
+      "imagen": "https://image.tmdb.org/t/p/w342/cR5KiAdVeZLG4nDUiCyqfvGzZ3f.jpg",
+      "titulo": "Lord of Mysteries",
+      "año": "2025",
+      "etiquetas": "Animación, Misterio, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Misterio, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2025-06-28",
+      "updated_at": "2025-08-21T23:24:40.458Z"
+    },
+    {
       "id_tmdb": "82591",
       "imagen": "https://image.tmdb.org/t/p/w342/nUiT0whRDuUJKkk74L1pn8xUE2z.jpg",
       "titulo": "Goblin Slayer",
@@ -2402,5 +2413,5 @@
       "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-08-21T22:01:51.056Z"
+  "lastUpdated": "2025-08-21T23:24:47.680Z"
 }
