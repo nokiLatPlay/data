@@ -1,6 +1,17 @@
 {
   "data": [
     {
+      "id_tmdb": "106379",
+      "imagen": "https://image.tmdb.org/t/p/w342/uNctKf62RRL8RKPTrdyFrcttwT2.jpg",
+      "titulo": "Fallout",
+      "año": "2024",
+      "etiquetas": "Acción, Aventura, Drama",
+      "categorías": "Acción, Aventura, Drama",
+      "type": "series",
+      "created_at": "2024-04-10",
+      "updated_at": "2025-08-21T02:54:15.834Z"
+    },
+    {
       "id_tmdb": "11679",
       "imagen": "https://image.tmdb.org/t/p/w342/A72pDnqEmW9P2NsNL9n50MZk3zk.jpg",
       "titulo": "xXx 2: Estado de Emergencia",
@@ -2347,5 +2358,5 @@
       "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-08-21T01:01:32.272Z"
+  "lastUpdated": "2025-08-21T02:54:21.437Z"
 }
