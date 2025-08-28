@@ -1,6 +1,39 @@
 {
   "data": [
     {
+      "id_tmdb": "123528",
+      "imagen": "https://image.tmdb.org/t/p/w342/kztE76NfhDw1LFVyOHVp2a48czQ.jpg",
+      "titulo": "Skeleton Knight in Another World",
+      "año": "2022",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Drama",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Drama",
+      "type": "animes",
+      "created_at": "2022-04-07",
+      "updated_at": "2025-08-28T23:47:24.852Z"
+    },
+    {
+      "id_tmdb": "112162",
+      "imagen": "https://image.tmdb.org/t/p/w342/wz2tUYzlUnfQWpBpoerFDbEZdzz.jpg",
+      "titulo": "Titanes del Pacífico: Tierra de nadie",
+      "año": "2021",
+      "etiquetas": "Ciencia Ficción y Fantasía, Animación, Acción, Aventura",
+      "categorías": "Ciencia Ficción y Fantasía, Animación, Acción, Aventura",
+      "type": "animes",
+      "created_at": "2021-03-04",
+      "updated_at": "2025-08-28T23:00:33.928Z"
+    },
+    {
+      "id_tmdb": "129195",
+      "imagen": "https://image.tmdb.org/t/p/w342/oKrrx9khD5uwCzvC5HKp1ESHlvZ.jpg",
+      "titulo": "Parallel World Pharmacy",
+      "año": "2022",
+      "etiquetas": "Animación, Comedia, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Comedia, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2022-07-10",
+      "updated_at": "2025-08-28T22:58:51.264Z"
+    },
+    {
       "id_tmdb": "343611",
       "imagen": "https://image.tmdb.org/t/p/w342/eLzStFuergouErSQlfABthuQHCJ.jpg",
       "titulo": "Jack Reacher 2: Sin Regreso",
@@ -2504,5 +2537,5 @@
       "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-08-28T01:56:03.652Z"
+  "lastUpdated": "2025-08-28T23:47:41.243Z"
 }
