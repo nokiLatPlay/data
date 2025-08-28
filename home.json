@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "id_tmdb": "343611",
+      "imagen": "https://image.tmdb.org/t/p/w342/eLzStFuergouErSQlfABthuQHCJ.jpg",
+      "titulo": "Jack Reacher 2: Sin Regreso",
+      "año": "2016",
+      "etiquetas": "Acción, Drama, Suspense, Crimen",
+      "categorías": "Acción, Drama, Suspense, Crimen",
+      "type": "movie",
+      "created_at": "2016-10-19",
+      "updated_at": "2025-08-28T01:45:32.155Z",
+      "calidad": "HD"
+    },
+    {
+      "id_tmdb": "812",
+      "imagen": "https://image.tmdb.org/t/p/w342/5ALwczKzFxbsiMDlHuy7aREDCzr.jpg",
+      "titulo": "Aladdin",
+      "año": "1992",
+      "etiquetas": "Animación, Familia, Aventura, Fantasía, Romance",
+      "categorías": "Animación, Familia, Aventura, Fantasía, Romance",
+      "type": "movie",
+      "created_at": "1992-11-25",
+      "updated_at": "2025-08-28T01:44:13.074Z",
+      "calidad": "HD"
+    },
+    {
+      "id_tmdb": "291805",
+      "imagen": "https://image.tmdb.org/t/p/w342/pjGt13AXXTLxvkmdF6SpA1feFOw.jpg",
+      "titulo": "Los Ilusionistas 2",
+      "año": "2016",
+      "etiquetas": "Suspense, Crimen",
+      "categorías": "Suspense, Crimen",
+      "type": "movie",
+      "created_at": "2016-06-02",
+      "updated_at": "2025-08-28T01:42:01.961Z",
+      "calidad": "HD"
+    },
+    {
       "id_tmdb": "64196",
       "imagen": "https://image.tmdb.org/t/p/w342/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
       "titulo": "Overlord",
@@ -2468,5 +2504,5 @@
       "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-08-27T23:50:05.517Z"
+  "lastUpdated": "2025-08-28T01:45:38.385Z"
 }
