@@ -1,6 +1,94 @@
 {
   "data": [
     {
+      "id_tmdb": "67063",
+      "imagen": "https://image.tmdb.org/t/p/w342/kUTsnVSo9JWcFK3Y2XILQfH0imK.jpg",
+      "titulo": "The OutCast",
+      "año": "2016",
+      "etiquetas": "Animación, Ciencia Ficción y Fantasía, Acción, Aventura, Comedia",
+      "categorías": "Animación, Ciencia Ficción y Fantasía, Acción, Aventura, Comedia",
+      "type": "animes",
+      "created_at": "2016-07-09",
+      "updated_at": "2025-08-29T08:35:03.288Z"
+    },
+    {
+      "id_tmdb": "88038",
+      "imagen": "https://image.tmdb.org/t/p/w342/9aZFcTEQQ4FTC4lTwY6ZoSqRXoc.jpg",
+      "titulo": "Granbelm",
+      "año": "2019",
+      "etiquetas": "Animación",
+      "categorías": "Animación",
+      "type": "animes",
+      "created_at": "2019-07-06",
+      "updated_at": "2025-08-29T08:26:41.692Z"
+    },
+    {
+      "id_tmdb": "229108",
+      "imagen": "https://image.tmdb.org/t/p/w342/tnvLM8R1xY7IRnhSZFIulCgJc2H.jpg",
+      "titulo": "The Banished Former Hero Lives as He Pleases",
+      "año": "2024",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2024-04-02",
+      "updated_at": "2025-08-29T08:20:19.541Z"
+    },
+    {
+      "id_tmdb": "114410",
+      "imagen": "https://image.tmdb.org/t/p/w342/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg",
+      "titulo": "Chainsaw Man",
+      "año": "2022",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2022-10-12",
+      "updated_at": "2025-08-29T08:16:21.085Z"
+    },
+    {
+      "id_tmdb": "45125",
+      "imagen": "https://image.tmdb.org/t/p/w342/vBIlaUVq0lFIb6aguOe5QKmlKqh.jpg",
+      "titulo": "Btooom!",
+      "año": "2012",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2012-10-04",
+      "updated_at": "2025-08-29T08:14:48.262Z"
+    },
+    {
+      "id_tmdb": "225168",
+      "imagen": "https://image.tmdb.org/t/p/w342/9GKw0yE8TNW8Gme4FOvvNdx0bnn.jpg",
+      "titulo": "BARTENDER: Glass of God",
+      "año": "2024",
+      "etiquetas": "Animación, Drama",
+      "categorías": "Animación, Drama",
+      "type": "animes",
+      "created_at": "2024-04-04",
+      "updated_at": "2025-08-29T08:14:42.176Z"
+    },
+    {
+      "id_tmdb": "61374",
+      "imagen": "https://image.tmdb.org/t/p/w342/5XBk7T4NsGeN9RG39y2nU6gRWQl.jpg",
+      "titulo": "Tokyo Ghoul",
+      "año": "2014",
+      "etiquetas": "Animación, Drama, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Drama, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2014-07-04",
+      "updated_at": "2025-08-29T08:14:35.533Z"
+    },
+    {
+      "id_tmdb": "114868",
+      "imagen": "https://image.tmdb.org/t/p/w342/v4la9QpSgcbEUZUUxvdIRCo5rsY.jpg",
+      "titulo": "Record of Ragnarok",
+      "año": "2021",
+      "etiquetas": "Acción, Aventura, Animación, Ciencia Ficción y Fantasía",
+      "categorías": "Acción, Aventura, Animación, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2021-06-17",
+      "updated_at": "2025-08-29T04:55:42.712Z"
+    },
+    {
       "id_tmdb": "123528",
       "imagen": "https://image.tmdb.org/t/p/w342/kztE76NfhDw1LFVyOHVp2a48czQ.jpg",
       "titulo": "Skeleton Knight in Another World",
@@ -2365,7 +2453,7 @@
       "categorías": "Acción, Aventura, Animación, Comedia, Ciencia Ficción y Fantasía",
       "type": "animes",
       "created_at": "2010-04-03",
-      "updated_at": "2025-07-24T09:24:55.093Z"
+      "updated_at": "2025-08-29T08:36:46.712Z"
     },
     {
       "id_tmdb": "73946",
@@ -2537,5 +2625,5 @@
       "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-08-28T23:47:41.243Z"
+  "lastUpdated": "2025-08-29T08:37:18.575Z"
 }
