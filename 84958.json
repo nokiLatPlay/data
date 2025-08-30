@@ -184,7 +184,20 @@
           "episode_id": "1",
           "nombre": "1. Ouroboros",
           "portada": "https://image.tmdb.org/t/p/w300/aIJvoQAal0TDDIl5plfKfSnAish.jpg",
-          "enlaces": [],
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://streamwish.to/e/gpj939h0bilg",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://filelions.to/v/hbwwwkrwfyjx",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ],
           "updated_at": "2025-08-11T05:52:15.499Z",
           "id": "4447686"
         },
@@ -192,7 +205,20 @@
           "episode_id": "2",
           "nombre": "2. Rompiendo Brad",
           "portada": "https://image.tmdb.org/t/p/w300/tdWNA1HRdWyzKJYcl2LpxpPbZ5l.jpg",
-          "enlaces": [],
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://streamwish.to/e/evm6h7r7j29z",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://filelions.to/v/s4r3i8a32kea",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ],
           "updated_at": "2025-08-11T05:52:15.500Z",
           "id": "4447779"
         },
@@ -200,7 +226,20 @@
           "episode_id": "3",
           "nombre": "3. 1893",
           "portada": "https://image.tmdb.org/t/p/w300/anjSO4NDxGrEfnZllZ91EKvbKoz.jpg",
-          "enlaces": [],
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://streamwish.to/e/gebounep08p6",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://filelions.to/v/b6x75fzsydrm",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ],
           "updated_at": "2025-08-11T05:52:15.500Z",
           "id": "4447780"
         },
@@ -208,7 +247,20 @@
           "episode_id": "4",
           "nombre": "4. Corazón de la TVA",
           "portada": "https://image.tmdb.org/t/p/w300/3NUiKf3CEoZtXB4EaBPOHVEPUxR.jpg",
-          "enlaces": [],
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://streamwish.to/e/et5s7ju1veyj",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://filelions.to/v/nwrfkh82udrr",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ],
           "updated_at": "2025-08-11T05:52:15.500Z",
           "id": "4447781"
         },
@@ -216,7 +268,20 @@
           "episode_id": "5",
           "nombre": "5. Ciencia ficción",
           "portada": "https://image.tmdb.org/t/p/w300/ueXDPrWLFbXHAtrxMas35ja8sFb.jpg",
-          "enlaces": [],
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://streamwish.to/e/2u38k6unn9cn",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://filelions.to/v/jd2413l559c4",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ],
           "updated_at": "2025-08-11T05:52:15.500Z",
           "id": "4447782"
         },
@@ -224,7 +289,20 @@
           "episode_id": "6",
           "nombre": "6. Propósito glorioso",
           "portada": "https://image.tmdb.org/t/p/w300/avCnQZPvHbqDLWMqlRNtayG732A.jpg",
-          "enlaces": [],
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://streamwish.to/e/otbs3vpbyf2a",
+              "type": "embed",
+              "language": "Latino"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://filelions.to/v/tkp9xpge1pne",
+              "type": "embed",
+              "language": "Latino"
+            }
+          ],
           "updated_at": "2025-08-11T05:52:15.500Z",
           "id": "4447783"
         }
