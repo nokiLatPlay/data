@@ -1,6 +1,28 @@
 {
   "data": [
     {
+      "id_tmdb": "9160",
+      "imagen": "https://image.tmdb.org/t/p/w342/pR3qMnbtkUsT3LJM3NTzamoqx84.jpg",
+      "titulo": "Candy Candy",
+      "año": "1976",
+      "etiquetas": "Animación, Drama, Kids",
+      "categorías": "Animación, Drama, Kids",
+      "type": "animes",
+      "created_at": "1976-10-15",
+      "updated_at": "2025-09-02T09:27:17.123Z"
+    },
+    {
+      "id_tmdb": "119495",
+      "imagen": "https://image.tmdb.org/t/p/w342/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
+      "titulo": "The Eminence in Shadow",
+      "año": "2022",
+      "etiquetas": "Animación, Comedia, Ciencia Ficción y Fantasía, Acción, Aventura",
+      "categorías": "Animación, Comedia, Ciencia Ficción y Fantasía, Acción, Aventura",
+      "type": "animes",
+      "created_at": "2022-10-05",
+      "updated_at": "2025-09-02T05:17:04.227Z"
+    },
+    {
       "id_tmdb": "279182",
       "imagen": "https://image.tmdb.org/t/p/w342/8nJV1CEh2eLK5fL3puEOE2tIEQI.jpg",
       "titulo": "Super Cubo",
@@ -2647,5 +2669,5 @@
       "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-09-02T02:17:55.883Z"
+  "lastUpdated": "2025-09-02T09:27:27.827Z"
 }
