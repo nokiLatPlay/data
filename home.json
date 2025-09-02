@@ -1,6 +1,50 @@
 {
   "data": [
     {
+      "id_tmdb": "65676",
+      "imagen": "https://image.tmdb.org/t/p/w342/uLCcMQT9gBf81wI1sbHx2ICBiYH.jpg",
+      "titulo": "My Teen Romantic Comedy SNAFU",
+      "año": "2013",
+      "etiquetas": "Animación, Comedia, Drama",
+      "categorías": "Animación, Comedia, Drama",
+      "type": "animes",
+      "created_at": "2013-04-05",
+      "updated_at": "2025-09-02T19:25:16.645Z"
+    },
+    {
+      "id_tmdb": "70592",
+      "imagen": "https://image.tmdb.org/t/p/w342/kVxFvpttZ8V3zog5eoFmzMVFppy.jpg",
+      "titulo": "Re:CREATORS",
+      "año": "2017",
+      "etiquetas": "Animación, Misterio, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "categorías": "Animación, Misterio, Acción, Aventura, Ciencia Ficción y Fantasía",
+      "type": "animes",
+      "created_at": "2017-04-08",
+      "updated_at": "2025-09-02T19:17:35.788Z"
+    },
+    {
+      "id_tmdb": "68639",
+      "imagen": "https://image.tmdb.org/t/p/w342/tWq0Nbtq0ZbGSEyOwbOwNzycpNa.jpg",
+      "titulo": "Isekai No Seikishi Monogatari",
+      "año": "2009",
+      "etiquetas": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Comedia, Drama, War &amp; Politics",
+      "categorías": "Animación, Acción, Aventura, Ciencia Ficción y Fantasía, Comedia, Drama, War &amp; Politics",
+      "type": "animes",
+      "created_at": "2009-05-22",
+      "updated_at": "2025-09-02T19:16:14.080Z"
+    },
+    {
+      "id_tmdb": "83100",
+      "imagen": "https://image.tmdb.org/t/p/w342/6TX5aQHlJKdRZqV9nFPty3dOdfe.jpg",
+      "titulo": "Dororo",
+      "año": "2019",
+      "etiquetas": "Animación, Acción, Aventura",
+      "categorías": "Animación, Acción, Aventura",
+      "type": "animes",
+      "created_at": "2019-01-07",
+      "updated_at": "2025-09-02T19:08:55.941Z"
+    },
+    {
       "id_tmdb": "9160",
       "imagen": "https://image.tmdb.org/t/p/w342/pR3qMnbtkUsT3LJM3NTzamoqx84.jpg",
       "titulo": "Candy Candy",
@@ -2669,5 +2713,5 @@
       "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-09-02T09:27:27.827Z"
+  "lastUpdated": "2025-09-02T19:25:42.745Z"
 }
