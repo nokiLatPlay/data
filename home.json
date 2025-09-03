@@ -1,6 +1,17 @@
 {
   "data": [
     {
+      "id_tmdb": "890",
+      "imagen": "https://image.tmdb.org/t/p/w342/8t5BmqgaYQQckYXF4Q9M1cVnqXt.jpg",
+      "titulo": "Neon Genesis Evangelion",
+      "año": "1995",
+      "etiquetas": "Ciencia Ficción y Fantasía, Animación, Drama",
+      "categorías": "Ciencia Ficción y Fantasía, Animación, Drama",
+      "type": "animes",
+      "created_at": "1995-10-04",
+      "updated_at": "2025-09-03T00:12:32.865Z"
+    },
+    {
       "id_tmdb": "65676",
       "imagen": "https://image.tmdb.org/t/p/w342/uLCcMQT9gBf81wI1sbHx2ICBiYH.jpg",
       "titulo": "My Teen Romantic Comedy SNAFU",
@@ -309,7 +320,7 @@
       "categorías": "Animación, Misterio, Ciencia Ficción y Fantasía",
       "type": "animes",
       "created_at": "2025-06-28",
-      "updated_at": "2025-09-02T01:58:53.712Z"
+      "updated_at": "2025-09-03T00:33:10.945Z"
     },
     {
       "id_tmdb": "82591",
@@ -2713,5 +2724,5 @@
       "calidad": "HD"
     }
   ],
-  "lastUpdated": "2025-09-02T19:25:42.745Z"
+  "lastUpdated": "2025-09-03T00:33:47.619Z"
 }
