@@ -28,7 +28,17 @@
       "type": "dorama",
       "calidad": "HD",
       "updated_at": "2025-09-18T10:24:41.001Z"
+    },
+    {
+      "id_tmdb": "1038392",
+      "imagen": "https://image.tmdb.org/t/p/w342/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
+      "titulo": "El Conjuro 4: Últimos ritos",
+      "year": "2025",
+      "etiquetas": "Terror",
+      "type": "movie",
+      "calidad": "CAM",
+      "updated_at": "2025-09-18T10:36:39.165Z"
     }
   ],
-  "lastUpdated": "2025-09-18T10:24:41.001Z"
+  "lastUpdated": "2025-09-18T10:36:39.165Z"
 }
