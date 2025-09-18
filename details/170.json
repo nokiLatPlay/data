@@ -1,0 +1,20 @@
+{
+  "id_tmdb": "170",
+  "titulo": "Exterminio",
+  "year": 2002,
+  "imagen": "https://image.tmdb.org/t/p/w342/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
+  "type": "movie",
+  "etiquetas": "Terror, Suspense, Ciencia ficción",
+  "synopsis": "Cuatro semanas después de que un misterioso e incurable virus se extendiera por todo el Reino Unido, un puñado de supervivientes intentan encontrar refugio.",
+  "calidad": "HD",
+  "enlaces": [
+    {
+      "nombre": "Enlace 1",
+      "url": "https://movearnpre.com/v/oy9x7frnhdal",
+      "type": "embed",
+      "language": "Latino"
+    }
+  ],
+  "created_at": "2002-10-31",
+  "updated_at": "2025-09-18T10:52:01.629Z"
+}
