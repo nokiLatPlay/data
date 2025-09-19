@@ -1,0 +1,26 @@
+{
+  "id_tmdb": "541671",
+  "titulo": "Bailarina",
+  "year": "2025",
+  "imagen": "https://image.tmdb.org/t/p/w342/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",
+  "type": "movie",
+  "etiquetas": "Acción, Suspense, Crimen",
+  "synopsis": "Eve Macarro es una asesina entrenada por la Ruska Roma desde su infancia, la misma organización criminal encargada del adiestramiento de John Wick. En esta violenta historia de venganza, Eve intentará por todos los medios averiguar quién está detrás del asesinato de su padre. En su lucha por conocer la verdad, tendrá que atenerse a las normas de la Alta Mesa y, por supuesto, a las del Hotel Continental, donde descubrirá que existen secretos ocultos sobre su pasado.",
+  "created_at": "2025-06-04",
+  "updated_at": "2025-09-19T20:42:07.565Z",
+  "calidad": "HD",
+  "enlaces": [
+    {
+      "nombre": "Server 1",
+      "url": "https://movearnpre.com/v/s02wl4d53oh4",
+      "type": "",
+      "language": ""
+    },
+    {
+      "nombre": "Server 2",
+      "url": "https://filemoon.sx/e/7a522a9njenv",
+      "type": "",
+      "language": ""
+    }
+  ]
+}
