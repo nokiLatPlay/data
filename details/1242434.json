@@ -1,0 +1,50 @@
+{
+  "id_tmdb": "1242434",
+  "titulo": "Del cielo al infierno",
+  "year": 2025,
+  "imagen": "https://image.tmdb.org/t/p/w342/b0AQYSM09AYVRKLZr6jIAP2xNq9.jpg",
+  "type": "movie",
+  "etiquetas": "Suspense, Crimen, Drama",
+  "synopsis": "Cuando un poderoso productor musical es víctima de una extorsión, debe luchar por su familia y su legado mientras enfrenta un dilema moral de vida o muerte.",
+  "calidad": "HD",
+  "enlaces": [
+    {
+      "nombre": "Enlace 1",
+      "url": "https://yuguaab.com/e/7q2db03lneqh",
+      "type": "embed",
+      "language": "Latino"
+    },
+    {
+      "nombre": "Enlace 2",
+      "url": "https://filemoon.sx/e/sznji1ch6bd7",
+      "type": "embed",
+      "language": "Latino"
+    },
+    {
+      "nombre": "Enlace 3",
+      "url": "https://movearnpre.com/v/7tziueqd64pu",
+      "type": "embed",
+      "language": "Latino"
+    },
+    {
+      "nombre": "Enlace 4",
+      "url": "https://yuguaab.com/e/hmfbj9g2r04y",
+      "type": "embed",
+      "language": "Sub"
+    },
+    {
+      "nombre": "Enlace 5",
+      "url": "https://filemoon.sx/e/r90squ15984e",
+      "type": "embed",
+      "language": "Sub"
+    },
+    {
+      "nombre": "Enlace 6",
+      "url": "https://movearnpre.com/v/ykrafmq8q4iz",
+      "type": "embed",
+      "language": "Sub"
+    }
+  ],
+  "created_at": "2025-08-14",
+  "updated_at": "2025-09-19T20:28:07.742Z"
+}
