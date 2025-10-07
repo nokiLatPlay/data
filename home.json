@@ -1,77 +1,89 @@
 {
-  "data": [
-    {
-      "id_tmdb": "84958",
-      "imagen": "https://image.tmdb.org/t/p/w342/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg",
-      "titulo": "Loki",
-      "year": "2021",
-      "etiquetas": "Drama, Sci-Fi & Fantasy",
-      "type": "series",
-      "updated_at": "2025-09-18T06:58:29.199Z"
-    },
-    {
-      "id_tmdb": "224414",
-      "imagen": "https://image.tmdb.org/t/p/w342/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
-      "titulo": "Tú y todo lo demás",
-      "year": "2025",
-      "etiquetas": "Drama",
-      "type": "dorama",
-      "calidad": "HD",
-      "updated_at": "2025-09-18T10:03:43.896Z"
-    },
-    {
-      "id_tmdb": "229958",
-      "imagen": "https://image.tmdb.org/t/p/w342/px9zvccELOZ3LUVxMb62gFO6D6o.jpg",
-      "titulo": "애마",
-      "year": "2025",
-      "etiquetas": "Drama, Comedia",
-      "type": "dorama",
-      "calidad": "HD",
-      "updated_at": "2025-09-18T10:48:14.071Z"
-    },
-    {
-      "id_tmdb": "1038392",
-      "imagen": "https://image.tmdb.org/t/p/w342/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
-      "titulo": "El Conjuro 4: Últimos ritos",
-      "year": "2025",
-      "etiquetas": "Terror",
-      "type": "movie",
-      "calidad": "CAM",
-      "updated_at": "2025-09-18T10:36:39.165Z"
-    },
-    {
-      "id_tmdb": "170",
-      "imagen": "https://image.tmdb.org/t/p/w342/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
-      "titulo": "Exterminio",
-      "year": "2002",
-      "etiquetas": "Terror, Suspense, Ciencia ficción",
-      "type": "movie",
-      "calidad": "HD",
-      "created_at": "2002-10-31",
-      "updated_at": "2025-09-18T14:51:10.649Z"
-    },
-    {
-      "id_tmdb": "1242434",
-      "imagen": "https://image.tmdb.org/t/p/w342/b0AQYSM09AYVRKLZr6jIAP2xNq9.jpg",
-      "titulo": "Del cielo al infierno",
-      "year": "2025",
-      "etiquetas": "Suspense, Crimen, Drama",
-      "type": "movie",
-      "calidad": "HD",
-      "created_at": "2025-08-14",
-      "updated_at": "2025-09-19T20:29:25.724Z"
-    },
-    {
-      "id_tmdb": "541671",
-      "imagen": "https://image.tmdb.org/t/p/w342/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",
-      "titulo": "Bailarina",
-      "year": "2025",
-      "etiquetas": "Acción, Suspense, Crimen",
-      "type": "movie",
-      "calidad": "HD",
-      "created_at": "2025-06-04",
-      "updated_at": "2025-09-19T20:42:07.565Z"
-    }
-  ],
-  "lastUpdated": "2025-09-19T20:43:33.425Z"
+    "data": [
+        {
+            "id_tmdb": "84958",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg",
+            "titulo": "Loki",
+            "year": "2021",
+            "etiquetas": "Drama, Sci-Fi & Fantasy",
+            "type": "series",
+            "updated_at": "2025-09-18T06:58:29.199Z"
+        },
+        {
+            "id_tmdb": "224414",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
+            "titulo": "T\u00fa y todo lo dem\u00e1s",
+            "year": "2025",
+            "etiquetas": "Drama",
+            "type": "dorama",
+            "calidad": "HD",
+            "updated_at": "2025-09-18T10:03:43.896Z"
+        },
+        {
+            "id_tmdb": "229958",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/px9zvccELOZ3LUVxMb62gFO6D6o.jpg",
+            "titulo": "\uc560\ub9c8",
+            "year": "2025",
+            "etiquetas": "Drama, Comedia",
+            "type": "dorama",
+            "calidad": "HD",
+            "updated_at": "2025-09-18T10:48:14.071Z"
+        },
+        {
+            "id_tmdb": "1038392",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
+            "titulo": "El Conjuro 4: \u00daltimos ritos",
+            "year": "2025",
+            "etiquetas": "Terror",
+            "type": "movie",
+            "calidad": "CAM",
+            "updated_at": "2025-09-18T10:36:39.165Z"
+        },
+        {
+            "id_tmdb": "170",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
+            "titulo": "Exterminio",
+            "year": "2002",
+            "etiquetas": "Terror, Suspense, Ciencia ficci\u00f3n",
+            "type": "movie",
+            "calidad": "HD",
+            "created_at": "2002-10-31",
+            "updated_at": "2025-09-18T14:51:10.649Z"
+        },
+        {
+            "id_tmdb": "1242434",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/b0AQYSM09AYVRKLZr6jIAP2xNq9.jpg",
+            "titulo": "Del cielo al infierno",
+            "year": "2025",
+            "etiquetas": "Suspense, Crimen, Drama",
+            "type": "movie",
+            "calidad": "HD",
+            "created_at": "2025-08-14",
+            "updated_at": "2025-09-19T20:29:25.724Z"
+        },
+        {
+            "id_tmdb": "541671",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",
+            "titulo": "Bailarina",
+            "year": "2025",
+            "etiquetas": "Acci\u00f3n, Suspense, Crimen",
+            "type": "movie",
+            "calidad": "HD",
+            "created_at": "2025-06-04",
+            "updated_at": "2025-09-19T20:42:07.565Z"
+        },
+        {
+            "id_tmdb": "1038392",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
+            "titulo": "El Conjuro 4: \u00daltimos ritos",
+            "etiquetas": "Terror",
+            "categor\u00edas": "Terror ",
+            "type": null,
+            "created_at": "2025-10-07",
+            "updated_at": "2025-10-07T19:36:13.000Z",
+            "calidad": "CAM",
+            "year": "2025"
+        }
+    ],
+    "lastUpdated": "2025-09-19T20:43:33.425Z"
 }
