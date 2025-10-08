@@ -107,6 +107,18 @@
             "updated_at": "2025-10-07T19:45:15.000Z",
             "calidad": "CAM",
             "year": "2025"
+        },
+        {
+            "id_tmdb": "1326106",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/okYOor2hdF7EFjxs2TxSzwGeKEQ.jpg",
+            "titulo": "Kaiju No. 8: Misi\u00f3n de reconocimiento",
+            "etiquetas": "Animaci\u00f3n, Acci\u00f3n, Ciencia ficci\u00f3n",
+            "categor\u00edas": "Animaci\u00f3n, Acci\u00f3n, Ciencia ficci\u00f3n",
+            "type": "movie",
+            "created_at": "2025-03-28",
+            "updated_at": "2025-10-08T02:45:38.000Z",
+            "calidad": "HD",
+            "year": "2025"
         }
     ],
     "lastUpdated": "2025-09-19T20:43:33.425Z"
