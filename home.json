@@ -130,7 +130,18 @@
             "created_at": "2025-10-13",
             "updated_at": "2025-10-13T06:02:07.000Z",
             "year": "2025"
+        },
+        {
+            "id_tmdb": "84958",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg",
+            "titulo": "Loki",
+            "etiquetas": "Drama, Sci-Fi & Fantasy",
+            "categor\u00edas": "Drama, Sci-Fi & Fantasy",
+            "type": null,
+            "created_at": "2021-06-09",
+            "updated_at": "2025-10-13T07:03:01.000Z",
+            "year": "2021"
         }
     ],
-    "lastUpdated": "2025-10-13T06:02:07.000Z"
+    "lastUpdated": "2025-10-13T07:03:02.000Z"
 }
