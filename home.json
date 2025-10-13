@@ -184,7 +184,17 @@
             "created_at": "2025-10-13",
             "updated_at": "2025-10-13T20:54:24.000Z",
             "year": "2021"
+        },
+        {
+            "id_tmdb": "20526",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zHzW7Q2zQm7THqST610u2ckWtS7.jpg",
+            "titulo": "TRON: Legacy",
+            "etiquetas": "Aventura, Acci\u00f3n, Ciencia ficci\u00f3n",
+            "type": "movie",
+            "created_at": "2010-12-14",
+            "updated_at": "2025-10-13T22:53:08.000Z",
+            "year": "2010"
         }
     ],
-    "lastUpdated": "2025-10-13T20:54:25.000Z"
+    "lastUpdated": "2025-10-13T22:53:08.000Z"
 }
