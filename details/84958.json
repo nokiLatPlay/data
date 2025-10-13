@@ -49,7 +49,14 @@
                     "episode_id": "01",
                     "nombre": "01. Ouroboros",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/aIJvoQAal0TDDIl5plfKfSnAish.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "02",
