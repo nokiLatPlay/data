@@ -8,37 +8,79 @@
                     "episode_id": "01",
                     "nombre": "01. Glorioso prop\u00f3sito",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "02",
                     "nombre": "02. La Variante",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "03",
                     "nombre": "03. Lamentis",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "04",
                     "nombre": "04. El evento en el nexo",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "05",
                     "nombre": "05. Viaje al misterio",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/5fRAAO13URmteku8mb39V9YPJBb.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "06",
                     "nombre": "06. Eternamente. Siempre.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/98hGgYbNFP8GnZhJzAar22bWIAT.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 }
             ]
         },
