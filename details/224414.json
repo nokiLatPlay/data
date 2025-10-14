@@ -7,11 +7,17 @@
                 {
                     "episode_id": "1",
                     "nombre": "01. Episodio 1",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/zKOTSRe9PFbgBBcn9oWrR9JfIYo.jpg",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/zKOTSRe9PFbgBBcn9oWrR9JfIYo.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
                             "url": "https:\/\/lamovie.link\/embed-lcy4854sjf0i.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "",
                             "type": "embed",
                             "language": "Latino"
                         }
