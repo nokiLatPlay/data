@@ -1,0 +1,96 @@
+{
+    "id_tmdb": "208493",
+    "titulo": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/50OsbGp6AWw4za2aAM82vKburcg.jpg",
+    "etiquetas": "Animaci\u00f3n, Action & Adventure, Sci-Fi & Fantasy",
+    "year": "2023",
+    "type": "series",
+    "synopsis": "Una puerta misteriosa est\u00e1 abierta, invitando a un ni\u00f1o que ha sido brutalmente acosado toda su vida a dar un valiente paso hacia lo desconocido. Por otro lado, encuentra un tesoro de artefactos invaluables y un mundo tan lleno de magia como de monstruos. Sin embargo, la revelaci\u00f3n m\u00e1s impactante es que puede traer consigo lo que quiera cuando regrese a la Tierra. No pasar\u00e1 mucho tiempo antes de que esta doble vida lo cambie para siempre...",
+    "created_at": "2023-04-07",
+    "updated_at": "2025-10-14T08:21:13.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Ir al otro mundo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/mgxZkxHsBvX0IVNT5BJpiSW5FRR.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/oI1HElsgnNhlP2a0GkY9zDI4Q9r.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Episodio 3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/jYCJbAFuEY5i3pHlF0OYMxW4zKG.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Episodio 4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/bkfQg5f1jJYVThUrHx36kB1c8Qj.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Episodio 5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/xNvMPmgPWq6hWMkeWAzmLa7rrPH.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Episodio 6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/7gKIeGrtg1TbMQuTnYgYFN5wkQQ.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Episodio 7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ar1QV1RrcWGtOSMHmIUDirHnpKq.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Episodio 8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/qQlEA1r3ernxxGKKxNOv7yMcj3.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. Episodio 9",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/oOIY8WTR6w1KhWH6IgyTFPchMnd.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Episodio 10",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/lU9wTAG0LfNeakyFUr9X1IJLU4l.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. Episodio 11",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/mVhziawAJvFc0JZ81xoMA2JfaG9.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Episodio 12",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/1PuATT6WVnsB3QQb11GOPd4PN7G.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "13",
+                    "nombre": "13. Episodio 13",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/sAlUqCilYg3hrfbohIKL6Amse3.jpg",
+                    "enlaces": []
+                }
+            ]
+        }
+    ]
+}
