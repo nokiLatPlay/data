@@ -378,6 +378,17 @@
             "updated_at": "2025-10-14T20:21:45.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": 1086260,
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/wXwJw65dMa84x5TWHMtZMaiCrri.jpg",
+            "titulo": "La Astronauta",
+            "etiquetas": "Terror, Ciencia ficción, Suspense",
+            "type": "movie",
+            "created_at": "2025-10-14",
+            "updated_at": "2025-10-14T20:21:49.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
