@@ -4,7 +4,7 @@
     "etiquetas": "Acción, Crimen, Drama, Suspense",
     "year": "2009",
     "created_at": "2009-04-02",
-    "updated_at": "2025-10-14T10:48:40.000Z",
+    "updated_at": "2025-10-14T11:54:29.000Z",
     "id_tmdb": "13804",
     "type": "movie",
     "calidad": "HD",
@@ -12,7 +12,7 @@
     "enlaces": [
         {
             "nombre": "Server 1",
-            "url": "https:\/\/vidhidepro.com ",
+            "url": "https:\/\/vidhidepro.com",
             "type": "embed",
             "language": "Latino"
         }
