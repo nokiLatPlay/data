@@ -101,17 +101,6 @@
             "updated_at": "2025-10-13T22:53:08.000Z",
             "year": "2010"
         },
-        "19": {
-            "id_tmdb": "76338",
-            "titulo": "Thor: el mundo oscuro",
-            "year": "2013",
-            "etiquetas": "Acci\u00f3n, Aventura, Fantas\u00eda",
-            "synopsis": "Thor lucha por restablecer el orden en el cosmos, pero una antigua raza liderada por el vengativo Malekith regresa con el prop\u00f3sito de volver a sumir el universo en la oscuridad. Se trata de un villano con el que ni siquiera Od\u00edn y Asgard se atreven a enfrentarse; por esa raz\u00f3n, Thor tendr\u00e1 que emprender un viaje muy peligroso, durante el cual se reunir\u00e1 con Jane Foster y la obligar\u00e1 a sacrificarlo todo para salvar el mundo.",
-            "calidad": "HD",
-            "enlaces": [],
-            "created_at": "2013-10-30",
-            "updated_at": "2025-10-13T23:20:12.000Z"
-        },
         "23": {
             "id_tmdb": "224414",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
@@ -152,6 +141,17 @@
             "created_at": "2025-10-14",
             "updated_at": "2025-10-14T07:52:27.000Z",
             "year": "2021"
+        },
+        "27": {
+            "id_tmdb": "76338",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg",
+            "titulo": "Thor: el mundo oscuro",
+            "etiquetas": "Acci\u00f3n, Aventura, Fantas\u00eda",
+            "type": "movie",
+            "created_at": "2013-10-30",
+            "updated_at": "2025-10-14T07:56:12.000Z",
+            "year": "2013",
+            "calidad": "HD"
         }
     },
     "lastUpdated": "2025-10-13T23:32:37.000Z"
