@@ -433,6 +433,17 @@
             "updated_at": "2025-10-14T20:22:02.000Z",
             "year": "2024",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": 348,
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/uuGKhdNWrZegCr2cYz7OFXiMzNo.jpg",
+            "titulo": "Alien, el octavo pasajero",
+            "etiquetas": "Terror, Ciencia ficción",
+            "type": "movie",
+            "created_at": "2025-10-14",
+            "updated_at": "2025-10-14T20:22:05.000Z",
+            "year": "1979",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
