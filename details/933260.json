@@ -1,0 +1,20 @@
+{
+    "titulo": "La sustancia",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
+    "etiquetas": "Drama, Terror, Ciencia ficción",
+    "year": "2024",
+    "created_at": "2025-10-14",
+    "updated_at": "2025-10-14T20:22:19.000Z",
+    "id_tmdb": 933260,
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
+    "enlaces": [
+        {
+            "nombre": "Enlace Principal",
+            "url": "https:\/\/movearnpre.com\/v\/frk6y1769lzz",
+            "type": "embed",
+            "language": "Sub"
+        }
+    ]
+}
