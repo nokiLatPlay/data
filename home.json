@@ -510,6 +510,17 @@
             "updated_at": "2025-10-14T20:22:26.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": 948,
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
+            "titulo": "La noche de Halloween",
+            "etiquetas": "Terror, Suspense",
+            "type": "movie",
+            "created_at": "2025-10-14",
+            "updated_at": "2025-10-14T20:22:29.000Z",
+            "year": "1978",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
