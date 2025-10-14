@@ -1,0 +1,20 @@
+{
+    "titulo": "El caballero oscuro",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+    "etiquetas": "Drama, Acción, Crimen, Suspense",
+    "year": "2008",
+    "created_at": "2025-10-14",
+    "updated_at": "2025-10-14T20:21:14.000Z",
+    "id_tmdb": 155,
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Batman\/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+    "enlaces": [
+        {
+            "nombre": "Enlace Principal",
+            "url": "https:\/\/filemoon.sx\/e\/vquh529szh3y",
+            "type": "embed",
+            "language": "Sub"
+        }
+    ]
+}
