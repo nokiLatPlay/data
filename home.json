@@ -111,16 +111,6 @@
             "updated_at": "2025-10-14T00:07:44.000Z",
             "year": "2025"
         },
-        "24": {
-            "id_tmdb": "229958",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/px9zvccELOZ3LUVxMb62gFO6D6o.jpg",
-            "titulo": "Aema",
-            "etiquetas": "Drama, Comedia",
-            "type": "dorama",
-            "created_at": "2025-10-14",
-            "updated_at": "2025-10-14T00:28:05.000Z",
-            "year": "2025"
-        },
         "25": {
             "id_tmdb": "24428",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
@@ -152,6 +142,16 @@
             "created_at": "2025-10-14",
             "updated_at": "2025-10-14T08:06:37.000Z",
             "year": "2021"
+        },
+        "29": {
+            "id_tmdb": "229958",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/px9zvccELOZ3LUVxMb62gFO6D6o.jpg",
+            "titulo": "Aema",
+            "etiquetas": "Drama, Comedia",
+            "type": "dorama",
+            "created_at": "2025-10-14",
+            "updated_at": "2025-10-14T08:15:57.000Z",
+            "year": "2025"
         }
     },
     "lastUpdated": "2025-10-13T23:32:37.000Z"
