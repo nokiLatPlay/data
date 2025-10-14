@@ -356,6 +356,17 @@
             "updated_at": "2025-10-14T20:21:38.000Z",
             "year": "1972",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": 1151031,
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/cl3VbcYxzWnDPetd7SbdhSxwWoL.jpg",
+            "titulo": "Devuélvemela",
+            "etiquetas": "Terror",
+            "type": "movie",
+            "created_at": "2025-10-14",
+            "updated_at": "2025-10-14T20:21:42.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
