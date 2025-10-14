@@ -213,6 +213,17 @@
             "updated_at": "2025-10-14T17:26:03.000Z",
             "year": "2007",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "10020",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg",
+            "titulo": "La bella y la bestia",
+            "etiquetas": "Romance, Familia, Animación, Fantasía",
+            "type": "movie",
+            "created_at": "1991-10-22",
+            "updated_at": "2025-10-14T17:27:25.000Z",
+            "year": "1991",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
