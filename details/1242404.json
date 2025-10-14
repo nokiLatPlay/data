@@ -1,0 +1,20 @@
+{
+    "titulo": "Steve",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/wmLoMyofbseLfxiGgk1Iz5H97c3.jpg",
+    "etiquetas": "Drama, Comedia",
+    "year": "2025",
+    "created_at": "2025-10-14",
+    "updated_at": "2025-10-14T20:21:31.000Z",
+    "id_tmdb": 1242404,
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "En el transcurso de un día intenso, el entregado director de un reformatorio para chicos intenta mantener a raya a sus alumnos mientras afronta sus propias presiones.",
+    "enlaces": [
+        {
+            "nombre": "Enlace Principal",
+            "url": "https:\/\/movearnpre.com\/v\/9qsrxb6047vl",
+            "type": "embed",
+            "language": "Sub"
+        }
+    ]
+}
