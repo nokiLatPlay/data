@@ -95,17 +95,6 @@
             "year": "2023"
         },
         {
-            "id_tmdb": "1038392",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/qdoqogLNR6myoRrxYFxF4UTkFne.jpg",
-            "titulo": "Expediente Warren: El último rito",
-            "etiquetas": "Terror",
-            "type": "movie",
-            "created_at": "2025-09-03",
-            "updated_at": "2025-10-14T09:06:58.000Z",
-            "year": "2025",
-            "calidad": "HD"
-        },
-        {
             "id_tmdb": "1326106",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/okYOor2hdF7EFjxs2TxSzwGeKEQ.jpg",
             "titulo": "Kaiju No. 8: Misión de reconocimiento",
@@ -124,6 +113,17 @@
             "type": "movie",
             "created_at": "2025-08-14",
             "updated_at": "2025-10-14T09:37:09.000Z",
+            "year": "2025",
+            "calidad": "HD"
+        },
+        {
+            "id_tmdb": "1038392",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/qdoqogLNR6myoRrxYFxF4UTkFne.jpg",
+            "titulo": "Expediente Warren: El último rito",
+            "etiquetas": "Terror",
+            "type": "movie",
+            "created_at": "2025-09-03",
+            "updated_at": "2025-10-14T09:38:09.000Z",
             "year": "2025",
             "calidad": "HD"
         }
