@@ -31,16 +31,6 @@
             "year": "2023"
         },
         {
-            "id_tmdb": "224414",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
-            "titulo": "Tú y todo lo demás",
-            "etiquetas": "Drama",
-            "type": "dorama",
-            "created_at": "2025-09-12",
-            "updated_at": "2025-10-14T09:38:57.000Z",
-            "year": "2025"
-        },
-        {
             "id_tmdb": "1038392",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/qdoqogLNR6myoRrxYFxF4UTkFne.jpg",
             "titulo": "Expediente Warren: El último rito",
@@ -170,6 +160,16 @@
             "created_at": "2022-07-10",
             "updated_at": "2025-10-14T11:57:34.000Z",
             "year": "2022"
+        },
+        {
+            "id_tmdb": "224414",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
+            "titulo": "Tú y todo lo demás",
+            "etiquetas": "Drama",
+            "type": "dorama",
+            "created_at": "2025-09-12",
+            "updated_at": "2025-10-14T11:57:50.000Z",
+            "year": "2025"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
