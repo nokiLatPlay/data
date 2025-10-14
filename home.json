@@ -65,16 +65,6 @@
             "year": "2025"
         },
         {
-            "id_tmdb": "224414",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
-            "titulo": "Tú y todo lo demás",
-            "etiquetas": "Drama",
-            "type": "dorama",
-            "created_at": "2025-09-12",
-            "updated_at": "2025-10-14T08:18:47.000Z",
-            "year": "2025"
-        },
-        {
             "id_tmdb": "84958",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg",
             "titulo": "Loki",
@@ -126,6 +116,16 @@
             "updated_at": "2025-10-14T09:38:09.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "224414",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
+            "titulo": "Tú y todo lo demás",
+            "etiquetas": "Drama",
+            "type": "dorama",
+            "created_at": "2025-09-12",
+            "updated_at": "2025-10-14T09:38:57.000Z",
+            "year": "2025"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
