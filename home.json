@@ -411,6 +411,17 @@
             "updated_at": "2025-10-14T20:21:55.000Z",
             "year": "2021",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": 670292,
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/kf8MQ2HfBHWFriUjKCmrFH8vSIa.jpg",
+            "titulo": "The Creator",
+            "etiquetas": "Ciencia ficción, Acción, Aventura",
+            "type": "movie",
+            "created_at": "2025-10-14",
+            "updated_at": "2025-10-14T20:21:59.000Z",
+            "year": "2023",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
