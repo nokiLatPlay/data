@@ -1,0 +1,20 @@
+{
+    "titulo": "Good Boy",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/6rZOKB5EhGcTLaSPoyX8La44ZDT.jpg",
+    "etiquetas": "Terror, Suspense",
+    "year": "2025",
+    "created_at": "2025-10-14",
+    "updated_at": "2025-10-14T20:21:24.000Z",
+    "id_tmdb": 1422096,
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "",
+    "enlaces": [
+        {
+            "nombre": "Enlace Principal",
+            "url": "https:\/\/movearnpre.com\/v\/vpbjkn5kkx74",
+            "type": "embed",
+            "language": "Sub"
+        }
+    ]
+}
