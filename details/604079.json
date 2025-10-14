@@ -1,0 +1,20 @@
+{
+    "titulo": "La larga marcha",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/kXIw6UiO2zANEPyStiYoEIopN0q.jpg",
+    "etiquetas": "Terror, Suspense",
+    "year": "2025",
+    "created_at": "2025-10-14",
+    "updated_at": "2025-10-14T20:22:26.000Z",
+    "id_tmdb": 604079,
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "En un futuro distópico, cien adolescentes participan en una brutal competición conocida como \"La larga marcha\", donde deben caminar sin descanso: si se detienen o reducen la velocidad de la marcha, mueren. Solo uno sobrevivirá. Adaptación cinematográfica de la novela de Stephen King.",
+    "enlaces": [
+        {
+            "nombre": "Enlace Principal",
+            "url": "https:\/\/movearnpre.com\/v\/myt7kjeq94c0",
+            "type": "embed",
+            "language": "Sub"
+        }
+    ]
+}
