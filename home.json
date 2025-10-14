@@ -532,6 +532,17 @@
             "updated_at": "2025-10-14T20:22:33.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": 1022787,
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/fqF7z5A8kFIrNtSdpEfjE539fna.jpg",
+            "titulo": "Elio",
+            "etiquetas": "Familia, Comedia, Aventura, Animación, Ciencia ficción",
+            "type": "movie",
+            "created_at": "2025-10-14",
+            "updated_at": "2025-10-14T20:22:36.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
