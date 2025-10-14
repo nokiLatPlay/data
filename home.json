@@ -101,16 +101,6 @@
             "updated_at": "2025-10-13T22:53:08.000Z",
             "year": "2010"
         },
-        "23": {
-            "id_tmdb": "224414",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
-            "titulo": "T\u00fa y todo lo dem\u00e1s",
-            "etiquetas": "Drama",
-            "type": "dorama",
-            "created_at": "2025-10-14",
-            "updated_at": "2025-10-14T00:07:44.000Z",
-            "year": "2025"
-        },
         "25": {
             "id_tmdb": "24428",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
@@ -151,6 +141,16 @@
             "type": "dorama",
             "created_at": "2025-10-14",
             "updated_at": "2025-10-14T08:15:57.000Z",
+            "year": "2025"
+        },
+        "30": {
+            "id_tmdb": "224414",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
+            "titulo": "T\u00fa y todo lo dem\u00e1s",
+            "etiquetas": "Drama",
+            "type": "dorama",
+            "created_at": "2025-09-12",
+            "updated_at": "2025-10-14T08:18:47.000Z",
             "year": "2025"
         }
     },
