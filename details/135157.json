@@ -7,10 +7,27 @@
     "type": "dorama",
     "synopsis": "Una poderosa hechicera atrapada en el cuerpo de una mujer ciega se encuentra con un integrante de una prestigiosa familia, que necesita su ayuda para cambiar su destino.",
     "created_at": "2022-06-18",
-    "updated_at": "2025-10-14T12:02:00.000Z",
+    "updated_at": "2025-10-14T12:04:57.000Z",
     "temporadas": [
         {
-            "temporada": "Temporada 2",
+            "temporada": "Especiales",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Episodio 1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/9i554pVTJdkcLwMGSZ6LcllcvbH.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/4uhV1pneowRgsl88Mekh8sd4YAM.jpg",
+                    "enlaces": []
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 1",
             "capitulos": [
                 {
                     "episode_id": "01",
@@ -130,6 +147,71 @@
                     "episode_id": "20",
                     "nombre": "20. Episodio 20",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/6zYYqwwwRszXaC4ldZ59iOvX06b.jpg",
+                    "enlaces": []
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 2",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Episodio 1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/vEZFVXimuSDceYo1wmzhnoV4zEO.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/b73NgTJ72EmsmpEvkVgVdQ9xWBi.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Episodio 3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/835GkYrRZumoFb5E3soMm1Dr9gA.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Episodio 4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/je08z2bL83VbAYAEX1QBq6P5oWw.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Episodio 5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/h6ldQ3oSaEPjYkJETqFSq5NYvuV.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Episodio 6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/fqcklt5pMzBUHHmSr9n9WIbNAUB.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Episodio 7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/zz0iH71wKxEGPaiz0ajFWuVOQog.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Episodio 8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/iGha1fkG7fggvLL5qiJ5SQNG2cN.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. Episodio 9",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/4EnYloyJKh9BFszrEv9GnyfXQ1x.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Episodio 10",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/rcKP1eYnwXRLJa2tQqEZnJ1fKSh.jpg",
                     "enlaces": []
                 }
             ]
