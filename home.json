@@ -444,6 +444,17 @@
             "updated_at": "2025-10-14T20:22:05.000Z",
             "year": "1979",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": 1087822,
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
+            "titulo": "Hellboy: El Hombre Retorcido",
+            "etiquetas": "Fantasía, Terror, Acción",
+            "type": "movie",
+            "created_at": "2025-10-14",
+            "updated_at": "2025-10-14T20:22:09.000Z",
+            "year": "2024",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
