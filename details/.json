@@ -1,0 +1,33 @@
+{
+    "id_tmdb": null,
+    "titulo": null,
+    "imagen": null,
+    "etiquetas": null,
+    "year": null,
+    "type": "series",
+    "synopsis": null,
+    "created_at": "2025-10-14",
+    "updated_at": "2025-10-14T23:08:36.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada ",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "Episodio 1",
+                    "portada": "",
+                    "synopsis": "",
+                    "fecha_emision": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Episodio 1",
+                            "url": "https:\/\/goodstream.one\/embed-vn4ey7kq7vq2.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
