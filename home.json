@@ -117,17 +117,6 @@
             "calidad": "HD"
         },
         {
-            "id_tmdb": "13804",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/b4oE1Bw6KmON4qNIfjgJbVYkOWZ.jpg",
-            "titulo": "Fast & Furious: Aún más rápido",
-            "etiquetas": "Acción, Crimen, Drama, Suspense",
-            "type": "movie",
-            "created_at": "2009-04-02",
-            "updated_at": "2025-10-14T10:48:39.000Z",
-            "year": "2009",
-            "calidad": "HD"
-        },
-        {
             "id_tmdb": "129195",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/oKrrx9khD5uwCzvC5HKp1ESHlvZ.jpg",
             "titulo": "Isekai Yakkyoku",
@@ -168,6 +157,17 @@
             "created_at": "2022-01-31",
             "updated_at": "2025-10-14T11:54:13.000Z",
             "year": "2022",
+            "calidad": "HD"
+        },
+        {
+            "id_tmdb": "13804",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/b4oE1Bw6KmON4qNIfjgJbVYkOWZ.jpg",
+            "titulo": "Fast & Furious: Aún más rápido",
+            "etiquetas": "Acción, Crimen, Drama, Suspense",
+            "type": "movie",
+            "created_at": "2009-04-02",
+            "updated_at": "2025-10-14T11:54:28.000Z",
+            "year": "2009",
             "calidad": "HD"
         }
     ],
