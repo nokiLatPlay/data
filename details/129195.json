@@ -1,0 +1,90 @@
+{
+    "id_tmdb": "129195",
+    "titulo": "Isekai Yakkyoku",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/oKrrx9khD5uwCzvC5HKp1ESHlvZ.jpg",
+    "etiquetas": "Animación, Comedia, Sci-Fi & Fantasy",
+    "year": "2022",
+    "type": "series",
+    "synopsis": "Un joven farmacólogo muere por exceso de trabajo y reencarna en una Europa medieval como un aprendiz con habilidades inhumanas. Enfrentando prácticas médicas dudosas y un monopolio farmacéutico, abre su propia farmacia para ayudar a la gente.",
+    "created_at": "2022-07-10",
+    "updated_at": "2025-10-14T10:50:16.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Un farmacólogo reencarnado y un mundo paralelo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/sOLgXvJ0N2A2oqlT3saDN3XPyvb.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Maestro y aprendiz",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/vmSRSt1QCrt2XSyPh03PvzhqJkS.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. El Farmacéutico Real Jefe y el Farmacólogo Reencarnado",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/oSXy2nPHbKIkk9gt1AUcVOruzBJ.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. La Emperatriz y la Carta Imperial",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8T6TOEaQL1knDbTOrQcLbobkYuW.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Vida cotidiana y cosmética en la farmacia de un mundo paralelo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/aNaidcZB8yJ2UUgKmTt1daPEFtH.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Hermanos y el mar",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/rKfWZvbeJklPG2q5bBUMBIol7Qy.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. El niño sin sombra y los inquisidores",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/q2a39ej9AO6dREkKrpNunOJBigg.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Gripe y el amanecer de una farmacia",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/v1WIqaY6tb46HvCLSON1laJaH0.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. La historia de cierto hombre malvado",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/wbCymWSzUEf0wDbJ36nPYUGTTxX.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. La peste negra",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/kTR3Z6Is9nXUOBMGwmvgSzqDtxa.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. El milagro de L'Estacque",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/mbK3hJwmabaB5wM7597dC2UULfU.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. A quienes no pudo curar",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/fFGDE3Y0q7Fd7tThHFRXKeoXeap.jpg",
+                    "enlaces": []
+                }
+            ]
+        }
+    ]
+}
