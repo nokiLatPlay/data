@@ -246,6 +246,17 @@
             "updated_at": "2025-10-14T20:21:03.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": 1251717,
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/kn63tQpkGoOqbncnrGhpr1tFHsJ.jpg",
+            "titulo": "Regalo maldito",
+            "etiquetas": "Terror, Suspense",
+            "type": "movie",
+            "created_at": "2025-10-14",
+            "updated_at": "2025-10-14T20:21:06.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
