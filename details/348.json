@@ -1,0 +1,20 @@
+{
+    "titulo": "Alien, el octavo pasajero",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/uuGKhdNWrZegCr2cYz7OFXiMzNo.jpg",
+    "etiquetas": "Terror, Ciencia ficción",
+    "year": "1979",
+    "created_at": "2025-10-14",
+    "updated_at": "2025-10-14T20:22:05.000Z",
+    "id_tmdb": 348,
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "De regreso a la Tierra, la nave de carga Nostromo interrumpe su viaje y despierta a sus siete tripulantes. El ordenador central, MADRE, ha detectado la misteriosa transmisión de una forma de vida desconocida, procedente de un planeta cercano aparentemente deshabitado. La nave se dirige entonces al extraño planeta para investigar el origen de la comunicación.",
+    "enlaces": [
+        {
+            "nombre": "Enlace Principal",
+            "url": "https:\/\/filemoon.sx\/e\/6qgvir52bmnk",
+            "type": "embed",
+            "language": "Sub"
+        }
+    ]
+}
