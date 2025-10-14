@@ -7,21 +7,21 @@
     "type": "series",
     "synopsis": null,
     "created_at": "2025-10-14",
-    "updated_at": "2025-10-14T23:08:49.000Z",
+    "updated_at": "2025-10-14T23:08:53.000Z",
     "temporadas": [
         {
             "temporada": "Temporada ",
             "capitulos": [
                 {
-                    "episode_id": "05",
-                    "nombre": "Episodio 5",
+                    "episode_id": "06",
+                    "nombre": "Episodio 6",
                     "portada": "",
                     "synopsis": "",
                     "fecha_emision": "",
                     "enlaces": [
                         {
-                            "nombre": "Episodio 5",
-                            "url": "https:\/\/goodstream.one\/embed-p52spvho3oqu.html",
+                            "nombre": "Episodio 6",
+                            "url": "https:\/\/goodstream.one\/embed-7oynlku4v4vr.html",
                             "type": "embed",
                             "language": "Latino"
                         }
