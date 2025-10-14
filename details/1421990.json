@@ -1,0 +1,20 @@
+{
+    "titulo": "The Baltimorons",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/xcQsHMpn3UQDneyiov001TjciCJ.jpg",
+    "etiquetas": "Comedia, Drama",
+    "year": "2025",
+    "created_at": "2025-10-14",
+    "updated_at": "2025-10-14T20:22:33.000Z",
+    "id_tmdb": 1421990,
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "",
+    "enlaces": [
+        {
+            "nombre": "Enlace Principal",
+            "url": "https:\/\/movearnpre.com\/v\/88twvoyaa5ba",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
