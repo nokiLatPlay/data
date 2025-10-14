@@ -334,6 +334,17 @@
             "updated_at": "2025-10-14T20:21:31.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": 1264573,
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/sXeCZsmpqRU0tsjvQu4rJ0zrw05.jpg",
+            "titulo": "Lurker",
+            "etiquetas": "Drama, Suspense",
+            "type": "movie",
+            "created_at": "2025-10-14",
+            "updated_at": "2025-10-14T20:21:35.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
