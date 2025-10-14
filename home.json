@@ -85,17 +85,6 @@
             "calidad": "HD"
         },
         {
-            "id_tmdb": "1242434",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/b0AQYSM09AYVRKLZr6jIAP2xNq9.jpg",
-            "titulo": "Del cielo al infierno",
-            "etiquetas": "Suspense, Crimen, Drama",
-            "type": "movie",
-            "created_at": "2025-08-14",
-            "updated_at": "2025-10-14T09:37:09.000Z",
-            "year": "2025",
-            "calidad": "HD"
-        },
-        {
             "id_tmdb": "224414",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
             "titulo": "Tú y todo lo demás",
@@ -168,6 +157,17 @@
             "created_at": "2022-11-11",
             "updated_at": "2025-10-14T11:54:40.000Z",
             "year": "2022",
+            "calidad": "HD"
+        },
+        {
+            "id_tmdb": "1242434",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/b0AQYSM09AYVRKLZr6jIAP2xNq9.jpg",
+            "titulo": "Del cielo al infierno",
+            "etiquetas": "Suspense, Crimen, Drama",
+            "type": "movie",
+            "created_at": "2025-08-14",
+            "updated_at": "2025-10-14T11:54:52.000Z",
+            "year": "2025",
             "calidad": "HD"
         }
     ],
