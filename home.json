@@ -180,6 +180,17 @@
             "created_at": "2022-06-18",
             "updated_at": "2025-10-14T12:04:56.000Z",
             "year": "2022"
+        },
+        {
+            "id_tmdb": "1072693",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/vAKgqTeBMOS9saeQiYQlMtKCnDC.jpg",
+            "titulo": "La belleza y el enigma vuelven",
+            "etiquetas": "Misterio, Suspense, Romance",
+            "type": "movie",
+            "created_at": "2024-08-09",
+            "updated_at": "2025-10-14T17:24:36.000Z",
+            "year": "2024",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
