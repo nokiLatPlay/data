@@ -1,0 +1,20 @@
+{
+    "titulo": "Dune",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/szcew6yyjcDvaL0isaPBk2e3nkF.jpg",
+    "etiquetas": "Ciencia ficción, Aventura",
+    "year": "2021",
+    "created_at": "2025-10-14",
+    "updated_at": "2025-10-14T20:21:55.000Z",
+    "id_tmdb": 438631,
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+    "enlaces": [
+        {
+            "nombre": "Enlace Principal",
+            "url": "https:\/\/filemoon.sx\/e\/28p1dfsd9g95",
+            "type": "embed",
+            "language": "Sub"
+        }
+    ]
+}
