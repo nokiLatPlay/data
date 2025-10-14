@@ -1,0 +1,20 @@
+{
+    "titulo": "Pesadilla en Elm Street",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/qDmeYxsfNA68Bn7aW8HSkAuVmWf.jpg",
+    "etiquetas": "Terror",
+    "year": "1984",
+    "created_at": "2025-10-14",
+    "updated_at": "2025-10-14T20:22:40.000Z",
+    "id_tmdb": 377,
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Varios jóvenes de una pequeña localidad tienen habitualmente pesadillas en las que son perseguidos por un hombre deformado por el fuego y que usa un guante terminado en afiladas cuchillas. Algunos de ellos comienzan a ser asesinados mientras duermen por este ser, que resulta ser un asesino al que los padres de estos jóvenes quemaron vivo hace varios años tras descubrir que había asesinado a varios niños.",
+    "enlaces": [
+        {
+            "nombre": "Enlace Principal",
+            "url": "https:\/\/filemoon.sx\/e\/malw4k7sbyrk",
+            "type": "embed",
+            "language": "Sub"
+        }
+    ]
+}
