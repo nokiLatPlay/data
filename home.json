@@ -126,6 +126,17 @@
             "created_at": "2025-09-12",
             "updated_at": "2025-10-14T09:38:57.000Z",
             "year": "2025"
+        },
+        {
+            "id_tmdb": "916224",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/iUfWPVyuLA4wZ5EetHyyGsi25SF.jpg",
+            "titulo": "Suzume",
+            "etiquetas": "Animación, Drama, Aventura, Fantasía",
+            "type": "movie",
+            "created_at": "2022-11-11",
+            "updated_at": "2025-10-14T09:40:46.000Z",
+            "year": "2022",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
