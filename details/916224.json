@@ -4,7 +4,7 @@
     "etiquetas": "Animación, Drama, Aventura, Fantasía",
     "year": "2022",
     "created_at": "2022-11-11",
-    "updated_at": "2025-10-14T09:40:47.000Z",
+    "updated_at": "2025-10-14T11:54:42.000Z",
     "id_tmdb": "916224",
     "type": "movie",
     "calidad": "HD",
@@ -12,7 +12,7 @@
     "enlaces": [
         {
             "nombre": "Enlace 1",
-            "url": "https:\/\/ryderjet.com ",
+            "url": "https:\/\/ryderjet.com",
             "type": "embed",
             "language": "Latino"
         }
