@@ -1,16 +1,6 @@
 {
     "data": [
         {
-            "id_tmdb": "1038392",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
-            "titulo": "El Conjuro 4: \u00daltimos ritos",
-            "year": "2025",
-            "etiquetas": "Terror",
-            "type": "movie",
-            "calidad": "CAM",
-            "updated_at": "2025-09-18T10:36:39.165Z"
-        },
-        {
             "id_tmdb": "170",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
             "titulo": "Exterminio",
@@ -42,42 +32,6 @@
             "calidad": "HD",
             "created_at": "2025-06-04",
             "updated_at": "2025-09-19T20:42:07.565Z"
-        },
-        {
-            "id_tmdb": "1038392",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
-            "titulo": "El Conjuro 4: \u00daltimos ritos",
-            "etiquetas": "Terror",
-            "categor\u00edas": "Terror ",
-            "type": null,
-            "created_at": "2025-10-07",
-            "updated_at": "2025-10-07T19:36:13.000Z",
-            "calidad": "CAM",
-            "year": "2025"
-        },
-        {
-            "id_tmdb": "1038392",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
-            "titulo": "El Conjuro 4: \u00daltimos ritos",
-            "etiquetas": "Terror",
-            "categor\u00edas": "Terror ",
-            "type": null,
-            "created_at": "2025-10-07",
-            "updated_at": "2025-10-07T19:36:25.000Z",
-            "calidad": "CAM",
-            "year": "2025"
-        },
-        {
-            "id_tmdb": "1038392",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
-            "titulo": "El Conjuro 4: \u00daltimos ritos",
-            "etiquetas": "Terror",
-            "categor\u00edas": "Terror ",
-            "type": "movie",
-            "created_at": "2025-10-07",
-            "updated_at": "2025-10-07T19:45:15.000Z",
-            "calidad": "CAM",
-            "year": "2025"
         },
         {
             "id_tmdb": "1326106",
@@ -162,6 +116,17 @@
             "created_at": "2023-04-07",
             "updated_at": "2025-10-14T09:06:26.000Z",
             "year": "2023"
+        },
+        {
+            "id_tmdb": "1038392",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/qdoqogLNR6myoRrxYFxF4UTkFne.jpg",
+            "titulo": "Expediente Warren: El \u00faltimo rito",
+            "etiquetas": "Terror",
+            "type": "movie",
+            "created_at": "2025-09-03",
+            "updated_at": "2025-10-14T09:06:58.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
