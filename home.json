@@ -107,17 +107,6 @@
             "calidad": "HD"
         },
         {
-            "id_tmdb": "1038392",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/qdoqogLNR6myoRrxYFxF4UTkFne.jpg",
-            "titulo": "Expediente Warren: El último rito",
-            "etiquetas": "Terror",
-            "type": "movie",
-            "created_at": "2025-09-03",
-            "updated_at": "2025-10-14T09:38:09.000Z",
-            "year": "2025",
-            "calidad": "HD"
-        },
-        {
             "id_tmdb": "224414",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
             "titulo": "Tú y todo lo demás",
@@ -169,6 +158,17 @@
             "created_at": "2022-07-10",
             "updated_at": "2025-10-14T11:50:22.000Z",
             "year": "2022"
+        },
+        {
+            "id_tmdb": "1038392",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/qdoqogLNR6myoRrxYFxF4UTkFne.jpg",
+            "titulo": "Expediente Warren: El último rito",
+            "etiquetas": "Terror",
+            "type": "movie",
+            "created_at": "2025-09-03",
+            "updated_at": "2025-10-14T11:51:47.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
