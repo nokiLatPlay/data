@@ -12,16 +12,6 @@
             "updated_at": "2025-09-19T20:42:07.565Z"
         },
         {
-            "id_tmdb": "20526",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zHzW7Q2zQm7THqST610u2ckWtS7.jpg",
-            "titulo": "TRON: Legacy",
-            "etiquetas": "Aventura, Acción, Ciencia ficción",
-            "type": "movie",
-            "created_at": "2010-12-14",
-            "updated_at": "2025-10-13T22:53:08.000Z",
-            "year": "2010"
-        },
-        {
             "id_tmdb": "229958",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/px9zvccELOZ3LUVxMb62gFO6D6o.jpg",
             "titulo": "Aema",
@@ -168,6 +158,17 @@
             "created_at": "2012-04-25",
             "updated_at": "2025-10-14T11:55:34.000Z",
             "year": "2012",
+            "calidad": "HD"
+        },
+        {
+            "id_tmdb": "20526",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zHzW7Q2zQm7THqST610u2ckWtS7.jpg",
+            "titulo": "TRON: Legacy",
+            "etiquetas": "Aventura, Acción, Ciencia ficción",
+            "type": "movie",
+            "created_at": "2010-12-14",
+            "updated_at": "2025-10-14T11:56:06.000Z",
+            "year": "2010",
             "calidad": "HD"
         }
     ],
