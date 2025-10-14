@@ -1,0 +1,20 @@
+{
+    "titulo": "Fast & Furious: Aún más rápido",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/b4oE1Bw6KmON4qNIfjgJbVYkOWZ.jpg",
+    "etiquetas": "Acción, Crimen, Drama, Suspense",
+    "year": "2009",
+    "created_at": "2009-04-02",
+    "updated_at": "2025-10-14T10:48:40.000Z",
+    "id_tmdb": "13804",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "El fugitivo Dom Toretto y el detective Brian O’Conner vuelven a encontrarse en Los Ángeles, pero sus relaciones no mejoran. Sin embargo, obligados a enfrentarse a un enemigo común, no les queda más remedio que unir sus fuerzas si quieren vencerlo. Después del atraco a un convoy, los dos protagonistas averiguan que si quieren vengarse, deberán llegar al límite de sus posibilidades al volante.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/vidhidepro.com ",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
