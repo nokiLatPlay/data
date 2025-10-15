@@ -566,16 +566,6 @@
             "year": "2022"
         },
         {
-            "id_tmdb": "127532",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg",
-            "titulo": "Solo Leveling",
-            "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy",
-            "type": "anime",
-            "created_at": "2024-01-07",
-            "updated_at": "2025-10-15T01:18:52.000Z",
-            "year": "2024"
-        },
-        {
             "id_tmdb": "1007734",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/qwdBh0102NX5fslXv3L9MSlXqKc.jpg",
             "titulo": "Nadie 2",
@@ -585,6 +575,16 @@
             "updated_at": "2025-10-15T01:30:59.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "127532",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg",
+            "titulo": "Solo Leveling",
+            "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+            "type": "series",
+            "created_at": "2024-01-07",
+            "updated_at": "2025-10-15T01:57:40.000Z",
+            "year": "2024"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
