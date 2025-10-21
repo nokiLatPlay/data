@@ -1,0 +1,20 @@
+{
+    "titulo": "Culpa nuestra",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg",
+    "etiquetas": "Romance, Drama",
+    "year": "2025",
+    "created_at": "2025-10-15",
+    "updated_at": "2025-10-21T07:03:41.000Z",
+    "id_tmdb": "1156594",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "La boda de Jenna y Lion propicia el tan deseado reencuentro entre Noah y Nick tiempo después de su ruptura. La incapacidad de Nick para perdonar a Noah se alza como una barrera insalvable. Él, heredero de las empresas de su abuelo y ella, empezando su vida laboral, se resisten a alimentar una llama que aún sigue viva. Pero una vez que sus caminos se han vuelto a cruzar, ¿será el amor más fuerte que el rencor? Secuela de \"Culpa tuya\".",
+    "enlaces": [
+        {
+            "nombre": "Enlace 1",
+            "url": "https:\/\/ryderjet.com",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
