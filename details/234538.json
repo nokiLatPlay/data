@@ -1,0 +1,90 @@
+{
+    "id_tmdb": "234538",
+    "titulo": "Maou 2099",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/sLv6VTK94JW1sbW6rnfjc1jEykd.jpg",
+    "etiquetas": "Animación, Sci-Fi & Fantasy, Action & Adventure",
+    "year": "2024",
+    "type": "anime",
+    "synopsis": "Hace cinco siglos, el Señor Demonio Veltol reinó sobre una nación inmortal. Ahora ha llegado el momento de que despierte una vez más. Es el año 2099 y la civilización ha alcanzado su punto máximo de evolución, lo que ha dado lugar a un paisaje de alta tecnología con imponentes rascacielos: nada parecido a lo que él ha conquistado antes. Puede que Veltol sea una reliquia del pasado, pero no te equivoques: ¡este nuevo mundo estará a tu disposición!",
+    "created_at": "2024-10-13",
+    "updated_at": "2025-10-24T00:50:40.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Shinjuku, ciudad ciperbunk",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/wYr3HWgCkBUK2xfSnzbAHbua6WZ.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. El Señor Oscuro y sus vasallos",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/dV8zxzgQTWE2O1msnwJ9aQ1bKzr.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. [Primer stream] ¡Revive Veltol, el Señor Oscuro!",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/pCLu1OYl4WVdyhxqjwtSwFy9MFr.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Las sombras de Shinjuku",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ecnudmJT27zvJYE5H9TZMBwzwxY.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Las profundidades del crisol",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8OCev7WSr4iLrGHDBDEQNUELIuL.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. La batalla del héroe",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/quFWM6Y7p8irwQpf3EpZzMjlvYS.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. La resurrección del Señor Oscuro",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/hP7hJX790ykj9Y3MSA09RHWmqdS.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Akihabara, ciudad cibermágica",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/jRJyE05fNJDY3XX05BowGOhsjGt.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. Estudiante desastroso de intercambio",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/hvIle9xqPJbpq6WsGne6kmMsimo.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Las tres grandes casas de Akihabara",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/gUSOnODrc45dS0XZ8EYEWSqbwQc.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. La diosa reencarnada",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/hbNSGFwkeAuqZJcRXCMocy7jQy.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. El regreso del Señor",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/2iq4ALBeAEWe48F4j6bXsjh042O.jpg",
+                    "enlaces": []
+                }
+            ]
+        }
+    ]
+}
