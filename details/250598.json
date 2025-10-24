@@ -1,0 +1,90 @@
+{
+    "id_tmdb": "250598",
+    "titulo": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/rYyRIZJ1DypSgeA8ShtPsLTo9I4.jpg",
+    "etiquetas": "Action & Adventure, Animación, Sci-Fi & Fantasy",
+    "year": "2024",
+    "type": "animes",
+    "synopsis": "Normalmente, las personas eligen convertirse en aventureros en la adolescencia. A sus 30 años, Rick Gladiator se opone a la tendencia y deja su trabajo como empleado del gremio para convertirse en aventurero. Comienza como un novato de rango F con la fuerza de combate de un rango S. Después de dos años de entrenamiento brutal con el grupo más fuerte del continente, Orichalcum Fist, ¡Rick derrotará a cualquiera que lo subestime!",
+    "created_at": "2024-07-02",
+    "updated_at": "2025-10-24T01:13:40.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Episodio 1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/yIF9hIOyUr1aOixKqtqHNAzrenN.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/q91oofZRdbrduGbuNWQNqkd0MDp.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Episodio 3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/xFrEQUwaX5Tz0an6DWV5Ofnan7F.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Episodio 4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/fw3bq70Cp3qoEYX5GJTekIx7boF.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Episodio 5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/aVWQDxGzYuVmQvK69ZzCqGtRk0r.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Episodio 6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/5UxLCqE5YPYJowpiZVr92139LWM.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Episodio 7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/5yNAIB2gEQLdcDoUnc3PRX5vyLB.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Episodio 8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/oCHYNjUi1E17yUFQDoNcWpXr5xV.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. Episodio 9",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/zIZ4LjEmkHro74bIeyI6VNzlOFm.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Episodio 10",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/s8xzLIzqnW5IufJJAku1CcNCICR.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. Episodio 11",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/vJIobcNPaUmfv1lp4G3Mw1T5qsI.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Episodio 12",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/d7eklTNStRK0I1k7Lq9xzw9dX8c.jpg",
+                    "enlaces": []
+                }
+            ]
+        }
+    ]
+}
