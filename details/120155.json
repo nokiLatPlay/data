@@ -1,0 +1,90 @@
+{
+    "id_tmdb": "120155",
+    "titulo": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/oDmhdUnR7tatB4s2NmmmwUrpv2e.jpg",
+    "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+    "year": "2022",
+    "type": "animes",
+    "synopsis": "El señor de los demonios más grande de toda la historia, Varvatos, ha reinado durante varios milenios como gobernante absoluto. Ahora, solo le queda una cosa por hacer: disfrutar de la vida de un plebeyo promedio. Cuando se reencarna como un aldeano en una ciudad indescriptible, todo parece ir como esperaba, pero solo hay un pequeño problema: incluso cuando se contiene, Varvatos sigue siendo demasiado fuerte. Pronto, los rumores sobre él se difundieron y todo tipo de hombres, mujeres y agresores se acercaron a él.",
+    "created_at": "2022-04-06",
+    "updated_at": "2025-10-24T00:56:18.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Episodio 1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/xjkNTNr7s4pDju0PTXINr9QD6as.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/fEjKCBk3lTfbIDMG5gLtLUtpi6O.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Episodio 3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/z49BXxkKgw2e9kVCwHBUgSJNHPQ.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Episodio 4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/rH8xzoiRORnYwEzwfYiJzjE8hXe.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Episodio 5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/nIq4Qxm2rytFJqukXynxmTmDHqH.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Episodio 6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/69sgJFSr9RDDF8P1xyFiAfCopQM.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Episodio 7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/pwEXHBgdB84Iz5qID9WfadqzI11.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Episodio 8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/u4SSYMMRyJ5r12MrbvM7dLf5J8h.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. Episodio 9",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/4y261bmv4U1w5sv4QfsN4nYx98F.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Episodio 10",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/blpSz9inp6pjBGSAxU8X6Gq9bag.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. Episodio 11",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/7ZSImcWjbCPk0q6nVwQhqiy5O9w.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Episodio 12",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/qSBR5oXqjIs9O1b0pQ2p7QpUiEL.jpg",
+                    "enlaces": []
+                }
+            ]
+        }
+    ]
+}
