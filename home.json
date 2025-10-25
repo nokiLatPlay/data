@@ -637,6 +637,17 @@
             "created_at": "2024-07-02",
             "updated_at": "2025-10-24T01:13:40.000Z",
             "year": "2024"
+        },
+        {
+            "id_tmdb": "13830",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/amOWE3VqD0rKDiHZSWhYcpYZcxq.jpg",
+            "titulo": "Shottas (Hermanos en el crimen)",
+            "etiquetas": "Acción, Aventura, Crimen, Drama",
+            "type": "movie",
+            "created_at": "2002-02-27",
+            "updated_at": "2025-10-25T07:04:41.000Z",
+            "year": "2002",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
