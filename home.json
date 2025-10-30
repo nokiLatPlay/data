@@ -648,6 +648,17 @@
             "updated_at": "2025-10-25T07:04:41.000Z",
             "year": "2002",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "791373",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg",
+            "titulo": "La Liga de la Justicia de Zack Snyder",
+            "etiquetas": "Acción, Aventura, Fantasía",
+            "type": "movie",
+            "created_at": "2021-03-18",
+            "updated_at": "2025-10-30T22:32:15.000Z",
+            "year": "2021",
+            "calidad": "HD"
         }
     ],
     "lastUpdated": "2025-10-13T23:32:37.000Z"
